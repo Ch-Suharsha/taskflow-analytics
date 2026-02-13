@@ -1,7 +1,8 @@
 pandas
 numpy
-streamlit
+streamlit>=1.42.0
 plotly
 sqlalchemy
 faker
 scipy
+altair<5
