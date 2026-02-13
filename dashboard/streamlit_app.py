@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from scipy import stats
 import numpy as np
+import os
 
 # Set page config
 st.set_page_config(layout="wide", page_title="TaskFlow Analytics Command Center")
@@ -11,12 +12,15 @@ st.set_page_config(layout="wide", page_title="TaskFlow Analytics Command Center"
 # Load Data
 @st.cache_data
 def load_data():
-    data_path = "data/"
-    users = pd.read_csv(data_path + "taskflow_users.csv")
-    onboarding = pd.read_csv(data_path + "taskflow_onboarding_funnel.csv")
-    features = pd.read_csv(data_path + "taskflow_feature_usage.csv")
-    ab_test = pd.read_csv(data_path + "taskflow_ab_test.csv")
-    subs = pd.read_csv(data_path + "taskflow_subscriptions.csv")
+    # Robust path handling
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    data_path = os.path.join(SCRIPT_DIR, '../data/')
+    
+    users = pd.read_csv(os.path.join(data_path, "taskflow_users.csv"))
+    onboarding = pd.read_csv(os.path.join(data_path, "taskflow_onboarding_funnel.csv"))
+    features = pd.read_csv(os.path.join(data_path, "taskflow_feature_usage.csv"))
+    ab_test = pd.read_csv(os.path.join(data_path, "taskflow_ab_test.csv"))
+    subs = pd.read_csv(os.path.join(data_path, "taskflow_subscriptions.csv"))
     return users, onboarding, features, ab_test, subs
 
 try:
