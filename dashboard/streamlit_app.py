@@ -71,7 +71,7 @@ if page == "📊 Executive Summary":
                   labels={'signup_month': 'Month', 'signups': 'New Signups'},
                   color_discrete_sequence=['#636EFA'])
     fig.update_layout(xaxis_tickangle=-45)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # MRR by plan
     st.subheader("MRR Breakdown by Plan")
@@ -79,7 +79,7 @@ if page == "📊 Executive Summary":
     mrr_by_plan = mrr_by_plan[mrr_by_plan['mrr'] > 0]
     fig_mrr = px.pie(mrr_by_plan, values='mrr', names='plan_type',
                      color_discrete_sequence=px.colors.qualitative.Set2)
-    st.plotly_chart(fig_mrr, use_container_width=True)
+    st.plotly_chart(fig_mrr, width="stretch")
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PAGE 2: PRODUCT HEALTH
@@ -103,7 +103,7 @@ elif page == "🩺 Product Health":
 
     fig_funnel = px.funnel(funnel_df, x='Users', y='Step',
                            color_discrete_sequence=['#636EFA'])
-    st.plotly_chart(fig_funnel, use_container_width=True)
+    st.plotly_chart(fig_funnel, width="stretch")
 
     # Drop-off rates
     col1, col2, col3, col4 = st.columns(4)
@@ -135,7 +135,7 @@ elif page == "🩺 Product Health":
     fig_scatter.update_traces(textposition='top center')
     fig_scatter.add_hline(y=2.0, line_dash="dot", line_color="gray", annotation_text="2x retention threshold")
     fig_scatter.add_vline(x=0.20, line_dash="dot", line_color="gray", annotation_text="20% adoption threshold")
-    st.plotly_chart(fig_scatter, use_container_width=True)
+    st.plotly_chart(fig_scatter, width="stretch")
 
     st.success("🎯 **time_tracking** is the biggest opportunity: only 12% adoption but 3.9x retention lift. Moving it to the main nav could retain 2,800+ users.")
 
@@ -195,7 +195,7 @@ elif page == "🧪 A/B Test Results":
                          color_discrete_sequence=['#EF553B', '#00CC96'])
         fig_bar.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
         fig_bar.update_layout(yaxis_range=[0, 60], showlegend=False)
-        st.plotly_chart(fig_bar, use_container_width=True)
+        st.plotly_chart(fig_bar, width="stretch")
 
     with col_chart2:
         st.subheader("Confidence Intervals (95%)")
@@ -218,7 +218,7 @@ elif page == "🧪 A/B Test Results":
             marker_color=['#EF553B', '#00CC96']
         ))
         fig_ci.update_layout(yaxis_title='Conversion Rate (%)', yaxis_range=[0, 60])
-        st.plotly_chart(fig_ci, use_container_width=True)
+        st.plotly_chart(fig_ci, width="stretch")
 
     # Business impact
     st.subheader("💰 Business Impact")
@@ -248,7 +248,7 @@ elif page == "🗺️ Roadmap Influence":
         {"Rank": "4", "Initiative": "Advanced Gantt Charts", "User Demand": "15%", "Revenue Impact": "+$890K ARR", "Effort": "High", "Score": 68, "Status": "⏸️ DEFER"},
     ])
 
-    st.dataframe(roadmap, use_container_width=True, hide_index=True)
+    st.dataframe(roadmap, width="stretch", hide_index=True)
 
     st.metric("Total Estimated Impact (Top 3)", "+$1.21M ARR")
 
@@ -272,7 +272,7 @@ elif page == "🗺️ Roadmap Influence":
     )
     fig_matrix.add_annotation(x=2, y=9.5, text="🎯 DO FIRST", showarrow=False, font=dict(size=14, color="green"))
     fig_matrix.add_annotation(x=8, y=9.5, text="⏸️ PLAN CAREFULLY", showarrow=False, font=dict(size=14, color="orange"))
-    st.plotly_chart(fig_matrix, use_container_width=True)
+    st.plotly_chart(fig_matrix, width="stretch")
 
     # Monitoring metrics
     st.subheader("📈 Recommended Monitoring Metrics")
