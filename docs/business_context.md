@@ -1,20 +1,37 @@
-# Business Context: TaskFlow
+# TaskFlow: Fictional Business Context
 
-## Company Background
-*   **Company Name:** TaskFlow (Series D SaaS)
-*   **Product:** B2B Project Management Platform (competitor to Asana/Monday)
-*   **ARR:** $50M
-*   **Users:** 15,000 active workspaces
+## Company Overview
 
-## Business Objective
-Influence the Q1 2026 Product Roadmap by analyzing Q4 2025 user behavior. Specifically looking for:
-*   Activation improvements (Onboarding)
-*   Retention drivers (Feature adoption)
-*   Expansion opportunities (Upgrading free users)
+**TaskFlow** is a fictional Series D B2B SaaS company that builds project management software for mid-market teams (50-500 employees). Think of it as a next-gen competitor to Asana and Monday.com.
 
-## Data Schema
-*   `users`: User demographics and subscription tier.
-*   `events`: Click-stream data.
-*   `onboarding_funnel`: Timestamps for each onboarding step.
-*   `feature_usage`: Adoption metrics for key features.
-*   `subscriptions`: MRR and churn data.
+## Business Metrics
+
+| Metric | Value |
+|--------|-------|
+| Annual Recurring Revenue (ARR) | $50M |
+| Active Workspaces | 15,000 |
+| Monthly Active Users | 45,000 |
+| Average Contract Value | $3,300/year |
+| Net Revenue Retention | 108% |
+| CAC Payback | 14 months |
+
+## Product Context
+
+TaskFlow's core functionality includes:
+- **Kanban Boards** — drag-and-drop task management
+- **Time Tracking** — built-in timer with reports (premium)
+- **Automation Rules** — if/then workflow automation (premium)
+- **Custom Fields** — flexible data tracking (premium)
+- **Reporting Dashboard** — analytics for team leads
+- **Integrations** — Slack, Google Drive, and more
+
+## The Challenge
+
+Growth has been slowing for 2 consecutive quarters. The Head of Product has asked the analytics team to uncover why activation rates are declining and which features should be prioritized to improve retention.
+
+## Key Questions
+
+1. Why are users churning after signup? (Onboarding friction)
+2. Which features create the most long-term value? (Feature-retention correlation)
+3. Are there revenue opportunities in the existing user base? (Undermonetized segments)
+4. What should we build next? (Roadmap prioritization)

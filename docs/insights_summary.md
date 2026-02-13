@@ -1,17 +1,21 @@
-# Insights Summary & Recommendations
+# Key Findings & Recommendations
 
-## 1. Onboarding Optimization
-*   **Finding**: The "Simplified Onboarding" experiment (reducing 4 steps to 3) was a massive success.
-*   **Data**: Conversion rate increased from **35% (Control)** to **47% (Variant A)**.
-*   **Impact**: Estimated **+$280k ARR** from improved activation.
-*   **Recommendation**: 🚀 **Ship Variant A immediately** to 100% of traffic.
+## Finding #1: The "Power Feature Paradox"
+- **Time Tracking** has only 12% adoption but drives **3.9x higher 30-day retention**
+- This is a discoverability problem, not a value problem
+- **Recommendation:** Move Time Tracking to main navigation → estimated +$450K ARR
 
-## 2. The "Time Tracking" Opportunity
-*   **Finding**: Users who use "Time Tracking" are **3.9x more likely to retain** than those who don't.
-*   **Problem**: Only **12%** of users discover this feature.
-*   **Recommendation**: Prioritize **"Improve Time Tracking Discoverability"** in the roadmap. Move it to the main navigation or prompt it during onboarding.
+## Finding #2: The "Onboarding Cliff"
+- 36% drop-off at Step 3 (Create First Board) — 2x the other steps
+- Users face the "blank canvas" problem
+- **Recommendation:** Introduce board templates → validated by A/B test (+12pp lift)
 
-## 3. Undermonetized Segments
-*   **Finding**: There are **200+ Free Tier workspaces** with >10 active users.
-*   **Opportunity**: These users are getting "Professional" value for free.
-*   **Recommendation**: Implement a soft gate or "Upgrade to Add More Users" prompt for teams >10.
+## Finding #3: Undermonetized Free Segments
+- 230 workspaces on Free plan with Professional-level usage (10+ users, 2.7 premium features)
+- **Recommendation:** Targeted upgrade campaign → estimated +$480K ARR at 50% conversion
+
+## A/B Test Results
+- Simplified onboarding increases completion from 35% → 47% (p < 0.001)
+- **Recommendation:** Ship Variant B immediately → estimated +$280K ARR
+
+## Total Estimated Impact: +$1.21M ARR
