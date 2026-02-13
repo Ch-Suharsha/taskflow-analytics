@@ -7,7 +7,6 @@
 ---
 
 ## 📖 The "Why" Behind This Project
-**Recruiter/Hiring Manager:** If you're reading this, you probably want to know if I can actually *do the job*.
 
 I built this project to simulate the **real-world day-to-day work** of a Product Data Analyst. Instead of just cleaning a clean dataset, I wanted to tackle a full-stack analytics problem: 
 1.  **Thinking like a PM**: Defining business metrics and hypotheses.
@@ -96,8 +95,5 @@ If you want to poke around the code yourself:
 ---
 
 ## 🎤 Final Thought
-Data analysis isn't just about writing code—it's about **making better decisions**. 
-
 This project demonstrates my ability to take raw, messy goals ("fix retention"), translate them into technical requirements, and deliver actionable insights that drive revenue.
 
-**I am ready to bring this same rigorous, product-focused mindset to your team.**
