@@ -1,0 +1,1212 @@
+user_id,test_name,variant,assignment_date,converted,conversion_date
+u_1,simplified_onboarding_q4_2025,control,2025-12-16,False,
+u_2,simplified_onboarding_q4_2025,control,2025-10-12,True,2025-10-12 01:42:00
+u_22,simplified_onboarding_q4_2025,variant_a,2025-12-30,False,
+u_31,simplified_onboarding_q4_2025,variant_a,2025-12-08,False,
+u_49,simplified_onboarding_q4_2025,variant_a,2025-12-11,False,
+u_60,simplified_onboarding_q4_2025,control,2025-11-07,False,
+u_61,simplified_onboarding_q4_2025,control,2025-10-09,True,2025-10-09 01:57:00
+u_66,simplified_onboarding_q4_2025,control,2025-12-17,True,2025-12-17 00:51:00
+u_68,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_81,simplified_onboarding_q4_2025,variant_a,2025-10-03,False,
+u_83,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_84,simplified_onboarding_q4_2025,variant_a,2025-10-25,False,
+u_87,simplified_onboarding_q4_2025,control,2025-12-13,False,
+u_88,simplified_onboarding_q4_2025,variant_a,2025-11-19,True,2025-11-19 00:25:00
+u_95,simplified_onboarding_q4_2025,variant_a,2025-11-02,False,
+u_96,simplified_onboarding_q4_2025,control,2025-10-25,False,
+u_98,simplified_onboarding_q4_2025,variant_a,2025-10-11,False,
+u_121,simplified_onboarding_q4_2025,control,2025-10-11,False,
+u_134,simplified_onboarding_q4_2025,control,2025-10-01,False,
+u_142,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_144,simplified_onboarding_q4_2025,variant_a,2025-12-04,False,
+u_145,simplified_onboarding_q4_2025,variant_a,2025-12-26,False,
+u_154,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_157,simplified_onboarding_q4_2025,control,2025-10-31,True,2025-10-31 01:32:00
+u_161,simplified_onboarding_q4_2025,variant_a,2025-12-18,False,
+u_167,simplified_onboarding_q4_2025,variant_a,2025-11-23,True,2025-11-23 00:45:00
+u_185,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_187,simplified_onboarding_q4_2025,variant_a,2025-10-10,False,
+u_203,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_212,simplified_onboarding_q4_2025,variant_a,2025-12-21,True,2025-12-21 01:53:00
+u_225,simplified_onboarding_q4_2025,variant_a,2025-12-23,True,2025-12-23 00:57:00
+u_229,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_237,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 01:26:00
+u_246,simplified_onboarding_q4_2025,variant_a,2025-11-01,True,2025-11-01 01:13:00
+u_255,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_268,simplified_onboarding_q4_2025,variant_a,2025-10-08,True,2025-10-08 00:31:00
+u_279,simplified_onboarding_q4_2025,variant_a,2025-10-31,True,2025-10-31 01:35:00
+u_284,simplified_onboarding_q4_2025,control,2025-12-16,False,
+u_286,simplified_onboarding_q4_2025,control,2025-10-12,True,2025-10-12 00:46:00
+u_290,simplified_onboarding_q4_2025,variant_a,2025-12-14,False,
+u_294,simplified_onboarding_q4_2025,variant_a,2025-10-18,False,
+u_310,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_317,simplified_onboarding_q4_2025,variant_a,2025-11-21,False,
+u_330,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_333,simplified_onboarding_q4_2025,variant_a,2025-12-19,False,
+u_336,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_337,simplified_onboarding_q4_2025,control,2025-11-22,False,
+u_343,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_349,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_356,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_381,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_384,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_405,simplified_onboarding_q4_2025,control,2025-10-29,False,
+u_413,simplified_onboarding_q4_2025,variant_a,2025-11-16,True,2025-11-16 01:10:00
+u_414,simplified_onboarding_q4_2025,variant_a,2025-10-19,True,2025-10-19 01:33:00
+u_456,simplified_onboarding_q4_2025,variant_a,2025-11-26,True,2025-11-26 01:34:00
+u_471,simplified_onboarding_q4_2025,control,2025-10-09,False,
+u_491,simplified_onboarding_q4_2025,control,2025-12-27,False,
+u_495,simplified_onboarding_q4_2025,variant_a,2025-11-08,True,2025-11-08 00:52:00
+u_500,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_504,simplified_onboarding_q4_2025,control,2025-11-07,True,2025-11-07 01:21:00
+u_515,simplified_onboarding_q4_2025,control,2025-11-09,False,
+u_522,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_528,simplified_onboarding_q4_2025,variant_a,2025-10-27,False,
+u_530,simplified_onboarding_q4_2025,control,2025-11-22,True,2025-11-22 01:01:00
+u_531,simplified_onboarding_q4_2025,control,2025-10-13,True,2025-10-13 00:39:00
+u_536,simplified_onboarding_q4_2025,control,2025-12-02,False,
+u_537,simplified_onboarding_q4_2025,control,2025-10-20,True,2025-10-20 00:57:00
+u_560,simplified_onboarding_q4_2025,control,2025-10-05,False,
+u_564,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_572,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_573,simplified_onboarding_q4_2025,control,2025-12-03,False,
+u_578,simplified_onboarding_q4_2025,control,2025-12-25,False,
+u_595,simplified_onboarding_q4_2025,control,2025-11-13,True,2025-11-13 00:39:00
+u_608,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_613,simplified_onboarding_q4_2025,control,2025-10-22,True,2025-10-22 00:42:00
+u_619,simplified_onboarding_q4_2025,variant_a,2025-11-18,False,
+u_634,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_646,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 00:38:00
+u_649,simplified_onboarding_q4_2025,variant_a,2025-11-23,True,2025-11-23 00:16:00
+u_657,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:55:00
+u_671,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_690,simplified_onboarding_q4_2025,control,2025-12-14,False,
+u_709,simplified_onboarding_q4_2025,variant_a,2025-10-19,False,
+u_714,simplified_onboarding_q4_2025,control,2025-11-24,True,2025-11-24 01:43:00
+u_727,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_733,simplified_onboarding_q4_2025,variant_a,2025-11-20,False,
+u_744,simplified_onboarding_q4_2025,control,2025-12-25,True,2025-12-25 00:24:00
+u_755,simplified_onboarding_q4_2025,variant_a,2025-12-18,True,2025-12-18 00:20:00
+u_760,simplified_onboarding_q4_2025,variant_a,2025-12-25,True,2025-12-25 01:40:00
+u_764,simplified_onboarding_q4_2025,control,2025-10-14,False,
+u_783,simplified_onboarding_q4_2025,variant_a,2025-11-29,False,
+u_795,simplified_onboarding_q4_2025,variant_a,2025-11-13,False,
+u_800,simplified_onboarding_q4_2025,control,2025-12-20,False,
+u_803,simplified_onboarding_q4_2025,variant_a,2025-10-07,False,
+u_811,simplified_onboarding_q4_2025,variant_a,2025-11-20,False,
+u_838,simplified_onboarding_q4_2025,control,2025-12-06,False,
+u_846,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_855,simplified_onboarding_q4_2025,variant_a,2025-12-15,False,
+u_857,simplified_onboarding_q4_2025,control,2025-11-10,True,2025-11-10 00:13:00
+u_869,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 01:14:00
+u_883,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 00:14:00
+u_890,simplified_onboarding_q4_2025,control,2025-12-09,False,
+u_892,simplified_onboarding_q4_2025,control,2025-11-28,True,2025-11-28 00:50:00
+u_902,simplified_onboarding_q4_2025,control,2025-10-22,True,2025-10-22 00:16:00
+u_905,simplified_onboarding_q4_2025,variant_a,2025-10-08,False,
+u_918,simplified_onboarding_q4_2025,control,2025-10-16,True,2025-10-16 01:45:00
+u_924,simplified_onboarding_q4_2025,control,2025-12-16,True,2025-12-16 01:15:00
+u_932,simplified_onboarding_q4_2025,variant_a,2025-11-14,True,2025-11-14 00:11:00
+u_933,simplified_onboarding_q4_2025,variant_a,2025-12-25,True,2025-12-25 01:37:00
+u_941,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_943,simplified_onboarding_q4_2025,variant_a,2025-10-24,True,2025-10-24 01:44:00
+u_946,simplified_onboarding_q4_2025,variant_a,2025-10-24,True,2025-10-24 01:16:00
+u_949,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_963,simplified_onboarding_q4_2025,variant_a,2025-10-19,True,2025-10-19 00:59:00
+u_966,simplified_onboarding_q4_2025,control,2025-11-08,False,
+u_976,simplified_onboarding_q4_2025,control,2025-11-05,False,
+u_982,simplified_onboarding_q4_2025,control,2025-11-28,True,2025-11-28 01:37:00
+u_1002,simplified_onboarding_q4_2025,control,2025-12-26,False,
+u_1007,simplified_onboarding_q4_2025,control,2025-12-21,True,2025-12-21 00:33:00
+u_1008,simplified_onboarding_q4_2025,control,2025-11-21,True,2025-11-21 01:55:00
+u_1013,simplified_onboarding_q4_2025,variant_a,2025-11-27,False,
+u_1016,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_1031,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_1034,simplified_onboarding_q4_2025,variant_a,2025-10-28,True,2025-10-28 01:34:00
+u_1048,simplified_onboarding_q4_2025,variant_a,2025-10-02,True,2025-10-02 01:00:00
+u_1049,simplified_onboarding_q4_2025,control,2025-12-25,True,2025-12-25 01:49:00
+u_1051,simplified_onboarding_q4_2025,variant_a,2025-12-23,True,2025-12-23 00:47:00
+u_1054,simplified_onboarding_q4_2025,variant_a,2025-12-05,False,
+u_1067,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_1071,simplified_onboarding_q4_2025,variant_a,2025-10-27,True,2025-10-27 00:20:00
+u_1072,simplified_onboarding_q4_2025,control,2025-10-26,True,2025-10-26 01:53:00
+u_1078,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_1079,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_1083,simplified_onboarding_q4_2025,variant_a,2025-12-04,True,2025-12-04 01:26:00
+u_1093,simplified_onboarding_q4_2025,control,2025-11-29,True,2025-11-29 01:24:00
+u_1105,simplified_onboarding_q4_2025,variant_a,2025-12-05,True,2025-12-05 01:10:00
+u_1133,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_1143,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_1144,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 00:53:00
+u_1145,simplified_onboarding_q4_2025,control,2025-10-01,False,
+u_1149,simplified_onboarding_q4_2025,control,2025-11-17,False,
+u_1157,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_1176,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 00:59:00
+u_1181,simplified_onboarding_q4_2025,variant_a,2025-12-10,True,2025-12-10 01:31:00
+u_1198,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_1200,simplified_onboarding_q4_2025,control,2025-11-29,False,
+u_1204,simplified_onboarding_q4_2025,control,2025-12-24,True,2025-12-24 01:36:00
+u_1207,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_1226,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_1239,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 00:18:00
+u_1250,simplified_onboarding_q4_2025,variant_a,2025-12-14,True,2025-12-14 00:57:00
+u_1252,simplified_onboarding_q4_2025,control,2025-12-09,True,2025-12-09 00:29:00
+u_1254,simplified_onboarding_q4_2025,variant_a,2025-11-16,True,2025-11-16 00:47:00
+u_1256,simplified_onboarding_q4_2025,variant_a,2025-10-15,True,2025-10-15 01:16:00
+u_1260,simplified_onboarding_q4_2025,control,2025-10-31,False,
+u_1264,simplified_onboarding_q4_2025,variant_a,2025-10-02,True,2025-10-02 01:50:00
+u_1267,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_1269,simplified_onboarding_q4_2025,control,2025-12-24,True,2025-12-24 00:38:00
+u_1272,simplified_onboarding_q4_2025,control,2025-11-21,True,2025-11-21 01:41:00
+u_1279,simplified_onboarding_q4_2025,control,2025-11-03,False,
+u_1284,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_1289,simplified_onboarding_q4_2025,control,2025-10-07,True,2025-10-07 01:06:00
+u_1292,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_1305,simplified_onboarding_q4_2025,variant_a,2025-10-25,True,2025-10-25 00:11:00
+u_1329,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_1331,simplified_onboarding_q4_2025,control,2025-12-19,False,
+u_1341,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_1349,simplified_onboarding_q4_2025,variant_a,2025-11-22,True,2025-11-22 00:59:00
+u_1352,simplified_onboarding_q4_2025,control,2025-10-24,True,2025-10-24 01:06:00
+u_1354,simplified_onboarding_q4_2025,control,2025-12-01,False,
+u_1360,simplified_onboarding_q4_2025,variant_a,2025-12-28,True,2025-12-28 01:12:00
+u_1379,simplified_onboarding_q4_2025,variant_a,2025-10-01,True,2025-10-01 00:31:00
+u_1390,simplified_onboarding_q4_2025,control,2025-12-16,True,2025-12-16 01:20:00
+u_1398,simplified_onboarding_q4_2025,control,2025-10-21,False,
+u_1400,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_1402,simplified_onboarding_q4_2025,control,2025-10-26,True,2025-10-26 00:11:00
+u_1417,simplified_onboarding_q4_2025,variant_a,2025-11-27,False,
+u_1420,simplified_onboarding_q4_2025,control,2025-10-29,True,2025-10-29 00:23:00
+u_1429,simplified_onboarding_q4_2025,control,2025-10-02,False,
+u_1434,simplified_onboarding_q4_2025,variant_a,2025-10-08,False,
+u_1436,simplified_onboarding_q4_2025,control,2025-12-24,False,
+u_1446,simplified_onboarding_q4_2025,variant_a,2025-10-20,False,
+u_1449,simplified_onboarding_q4_2025,variant_a,2025-11-01,True,2025-11-01 01:24:00
+u_1450,simplified_onboarding_q4_2025,variant_a,2025-10-16,False,
+u_1458,simplified_onboarding_q4_2025,variant_a,2025-10-31,True,2025-10-31 01:55:00
+u_1460,simplified_onboarding_q4_2025,control,2025-11-22,False,
+u_1463,simplified_onboarding_q4_2025,variant_a,2025-11-03,False,
+u_1483,simplified_onboarding_q4_2025,control,2025-12-09,False,
+u_1485,simplified_onboarding_q4_2025,variant_a,2025-11-29,True,2025-11-29 01:42:00
+u_1495,simplified_onboarding_q4_2025,control,2025-10-23,True,2025-10-23 01:27:00
+u_1514,simplified_onboarding_q4_2025,control,2025-10-02,True,2025-10-02 00:40:00
+u_1520,simplified_onboarding_q4_2025,control,2025-10-26,True,2025-10-26 01:09:00
+u_1525,simplified_onboarding_q4_2025,control,2025-12-15,False,
+u_1533,simplified_onboarding_q4_2025,control,2025-10-04,True,2025-10-04 01:20:00
+u_1537,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_1541,simplified_onboarding_q4_2025,control,2025-12-20,False,
+u_1554,simplified_onboarding_q4_2025,control,2025-11-21,True,2025-11-21 01:54:00
+u_1555,simplified_onboarding_q4_2025,variant_a,2025-10-20,True,2025-10-20 00:50:00
+u_1561,simplified_onboarding_q4_2025,variant_a,2025-10-16,True,2025-10-16 00:55:00
+u_1562,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 00:36:00
+u_1577,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_1588,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:48:00
+u_1595,simplified_onboarding_q4_2025,variant_a,2025-11-13,False,
+u_1599,simplified_onboarding_q4_2025,control,2025-11-08,False,
+u_1600,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 01:26:00
+u_1601,simplified_onboarding_q4_2025,control,2025-11-18,False,
+u_1610,simplified_onboarding_q4_2025,variant_a,2025-11-22,False,
+u_1613,simplified_onboarding_q4_2025,control,2025-10-31,False,
+u_1619,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_1620,simplified_onboarding_q4_2025,control,2025-12-03,False,
+u_1622,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 00:27:00
+u_1632,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_1636,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_1643,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_1645,simplified_onboarding_q4_2025,control,2025-12-13,True,2025-12-13 00:44:00
+u_1647,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 01:22:00
+u_1669,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_1677,simplified_onboarding_q4_2025,control,2025-11-30,True,2025-11-30 01:13:00
+u_1687,simplified_onboarding_q4_2025,control,2025-11-18,False,
+u_1709,simplified_onboarding_q4_2025,variant_a,2025-10-18,False,
+u_1714,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_1736,simplified_onboarding_q4_2025,variant_a,2025-10-28,True,2025-10-28 01:49:00
+u_1737,simplified_onboarding_q4_2025,control,2025-10-14,False,
+u_1748,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_1757,simplified_onboarding_q4_2025,variant_a,2025-11-01,False,
+u_1762,simplified_onboarding_q4_2025,control,2025-12-26,False,
+u_1765,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_1766,simplified_onboarding_q4_2025,control,2025-11-09,False,
+u_1771,simplified_onboarding_q4_2025,control,2025-11-13,False,
+u_1793,simplified_onboarding_q4_2025,control,2025-11-06,True,2025-11-06 01:28:00
+u_1799,simplified_onboarding_q4_2025,control,2025-11-08,True,2025-11-08 01:36:00
+u_1800,simplified_onboarding_q4_2025,control,2025-10-31,True,2025-10-31 00:11:00
+u_1807,simplified_onboarding_q4_2025,control,2025-11-11,False,
+u_1816,simplified_onboarding_q4_2025,control,2025-11-30,True,2025-11-30 01:59:00
+u_1826,simplified_onboarding_q4_2025,control,2025-12-15,False,
+u_1847,simplified_onboarding_q4_2025,variant_a,2025-12-23,False,
+u_1853,simplified_onboarding_q4_2025,variant_a,2025-11-01,False,
+u_1855,simplified_onboarding_q4_2025,control,2025-12-15,False,
+u_1867,simplified_onboarding_q4_2025,variant_a,2025-11-27,False,
+u_1872,simplified_onboarding_q4_2025,variant_a,2025-11-30,False,
+u_1893,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_1899,simplified_onboarding_q4_2025,variant_a,2025-10-15,False,
+u_1904,simplified_onboarding_q4_2025,variant_a,2025-10-29,True,2025-10-29 00:42:00
+u_1913,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_1917,simplified_onboarding_q4_2025,variant_a,2025-10-18,True,2025-10-18 01:55:00
+u_1922,simplified_onboarding_q4_2025,control,2025-12-18,False,
+u_1923,simplified_onboarding_q4_2025,variant_a,2025-12-14,True,2025-12-14 00:23:00
+u_1927,simplified_onboarding_q4_2025,variant_a,2025-11-20,False,
+u_1936,simplified_onboarding_q4_2025,variant_a,2025-11-24,False,
+u_1937,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_1941,simplified_onboarding_q4_2025,control,2025-11-26,True,2025-11-26 01:58:00
+u_1947,simplified_onboarding_q4_2025,control,2025-11-22,False,
+u_1956,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_1957,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_1960,simplified_onboarding_q4_2025,variant_a,2025-11-22,True,2025-11-22 00:27:00
+u_1976,simplified_onboarding_q4_2025,variant_a,2025-11-02,True,2025-11-02 00:16:00
+u_1993,simplified_onboarding_q4_2025,variant_a,2025-12-28,False,
+u_2001,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_2004,simplified_onboarding_q4_2025,variant_a,2025-11-26,False,
+u_2033,simplified_onboarding_q4_2025,variant_a,2025-11-09,True,2025-11-09 01:35:00
+u_2035,simplified_onboarding_q4_2025,variant_a,2025-11-09,False,
+u_2036,simplified_onboarding_q4_2025,control,2025-12-19,False,
+u_2037,simplified_onboarding_q4_2025,control,2025-10-23,True,2025-10-23 00:59:00
+u_2038,simplified_onboarding_q4_2025,variant_a,2025-10-16,False,
+u_2043,simplified_onboarding_q4_2025,variant_a,2025-12-10,True,2025-12-10 01:14:00
+u_2057,simplified_onboarding_q4_2025,control,2025-10-09,False,
+u_2073,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_2076,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 01:44:00
+u_2088,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_2089,simplified_onboarding_q4_2025,variant_a,2025-11-29,False,
+u_2090,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 01:33:00
+u_2098,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_2100,simplified_onboarding_q4_2025,control,2025-11-04,False,
+u_2103,simplified_onboarding_q4_2025,control,2025-10-01,True,2025-10-01 01:35:00
+u_2110,simplified_onboarding_q4_2025,variant_a,2025-12-11,False,
+u_2128,simplified_onboarding_q4_2025,control,2025-10-24,True,2025-10-24 00:47:00
+u_2134,simplified_onboarding_q4_2025,variant_a,2025-11-24,False,
+u_2138,simplified_onboarding_q4_2025,variant_a,2025-12-08,False,
+u_2147,simplified_onboarding_q4_2025,variant_a,2025-10-20,True,2025-10-20 00:42:00
+u_2153,simplified_onboarding_q4_2025,variant_a,2025-10-30,False,
+u_2156,simplified_onboarding_q4_2025,variant_a,2025-12-01,True,2025-12-01 00:32:00
+u_2167,simplified_onboarding_q4_2025,control,2025-11-19,False,
+u_2181,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_2189,simplified_onboarding_q4_2025,variant_a,2025-11-01,False,
+u_2208,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_2209,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_2212,simplified_onboarding_q4_2025,control,2025-12-01,False,
+u_2219,simplified_onboarding_q4_2025,variant_a,2025-12-21,True,2025-12-21 00:19:00
+u_2223,simplified_onboarding_q4_2025,control,2025-11-16,False,
+u_2226,simplified_onboarding_q4_2025,variant_a,2025-11-27,False,
+u_2227,simplified_onboarding_q4_2025,variant_a,2025-11-23,True,2025-11-23 01:58:00
+u_2229,simplified_onboarding_q4_2025,variant_a,2025-11-24,True,2025-11-24 01:02:00
+u_2231,simplified_onboarding_q4_2025,variant_a,2025-12-22,False,
+u_2238,simplified_onboarding_q4_2025,variant_a,2025-12-02,True,2025-12-02 00:44:00
+u_2257,simplified_onboarding_q4_2025,variant_a,2025-12-14,True,2025-12-14 01:53:00
+u_2266,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_2272,simplified_onboarding_q4_2025,control,2025-12-24,True,2025-12-24 01:25:00
+u_2273,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_2278,simplified_onboarding_q4_2025,control,2025-10-29,False,
+u_2294,simplified_onboarding_q4_2025,variant_a,2025-10-07,False,
+u_2302,simplified_onboarding_q4_2025,control,2025-12-22,False,
+u_2306,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_2330,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_2331,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_2339,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_2374,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 01:59:00
+u_2393,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_2394,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_2405,simplified_onboarding_q4_2025,variant_a,2025-11-19,True,2025-11-19 01:07:00
+u_2410,simplified_onboarding_q4_2025,control,2025-11-07,False,
+u_2413,simplified_onboarding_q4_2025,variant_a,2025-10-08,False,
+u_2424,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_2428,simplified_onboarding_q4_2025,variant_a,2025-11-10,True,2025-11-10 00:35:00
+u_2431,simplified_onboarding_q4_2025,variant_a,2025-11-11,False,
+u_2432,simplified_onboarding_q4_2025,control,2025-10-14,False,
+u_2434,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_2441,simplified_onboarding_q4_2025,variant_a,2025-12-26,True,2025-12-26 00:19:00
+u_2445,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_2452,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_2456,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_2466,simplified_onboarding_q4_2025,control,2025-12-07,True,2025-12-07 00:19:00
+u_2467,simplified_onboarding_q4_2025,control,2025-12-13,False,
+u_2468,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_2471,simplified_onboarding_q4_2025,variant_a,2025-11-09,False,
+u_2477,simplified_onboarding_q4_2025,control,2025-10-01,False,
+u_2482,simplified_onboarding_q4_2025,variant_a,2025-11-26,False,
+u_2487,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 00:37:00
+u_2494,simplified_onboarding_q4_2025,control,2025-11-23,True,2025-11-23 01:34:00
+u_2497,simplified_onboarding_q4_2025,variant_a,2025-11-12,True,2025-11-12 01:25:00
+u_2499,simplified_onboarding_q4_2025,control,2025-12-25,True,2025-12-25 01:26:00
+u_2504,simplified_onboarding_q4_2025,variant_a,2025-12-12,True,2025-12-12 00:36:00
+u_2507,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_2512,simplified_onboarding_q4_2025,control,2025-10-20,True,2025-10-20 01:34:00
+u_2522,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_2528,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_2534,simplified_onboarding_q4_2025,control,2025-10-15,False,
+u_2544,simplified_onboarding_q4_2025,variant_a,2025-10-25,False,
+u_2545,simplified_onboarding_q4_2025,variant_a,2025-10-01,True,2025-10-01 01:09:00
+u_2557,simplified_onboarding_q4_2025,control,2025-11-02,True,2025-11-02 00:56:00
+u_2573,simplified_onboarding_q4_2025,variant_a,2025-12-26,True,2025-12-26 01:08:00
+u_2575,simplified_onboarding_q4_2025,variant_a,2025-10-08,False,
+u_2583,simplified_onboarding_q4_2025,variant_a,2025-12-23,True,2025-12-23 00:35:00
+u_2588,simplified_onboarding_q4_2025,variant_a,2025-10-24,False,
+u_2590,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:12:00
+u_2593,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 00:15:00
+u_2598,simplified_onboarding_q4_2025,variant_a,2025-12-12,False,
+u_2600,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_2609,simplified_onboarding_q4_2025,control,2025-11-10,True,2025-11-10 00:38:00
+u_2610,simplified_onboarding_q4_2025,control,2025-12-21,False,
+u_2623,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_2638,simplified_onboarding_q4_2025,variant_a,2025-11-15,False,
+u_2646,simplified_onboarding_q4_2025,variant_a,2025-10-19,True,2025-10-19 00:44:00
+u_2647,simplified_onboarding_q4_2025,control,2025-11-24,True,2025-11-24 00:58:00
+u_2656,simplified_onboarding_q4_2025,variant_a,2025-10-05,False,
+u_2670,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 01:52:00
+u_2687,simplified_onboarding_q4_2025,variant_a,2025-11-08,True,2025-11-08 00:57:00
+u_2694,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_2701,simplified_onboarding_q4_2025,control,2025-12-18,False,
+u_2702,simplified_onboarding_q4_2025,control,2025-11-17,False,
+u_2703,simplified_onboarding_q4_2025,control,2025-10-31,False,
+u_2716,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_2721,simplified_onboarding_q4_2025,variant_a,2025-10-26,True,2025-10-26 00:35:00
+u_2725,simplified_onboarding_q4_2025,variant_a,2025-11-29,True,2025-11-29 01:28:00
+u_2730,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_2733,simplified_onboarding_q4_2025,control,2025-12-07,False,
+u_2735,simplified_onboarding_q4_2025,variant_a,2025-11-05,True,2025-11-05 00:18:00
+u_2739,simplified_onboarding_q4_2025,control,2025-11-01,False,
+u_2750,simplified_onboarding_q4_2025,variant_a,2025-12-27,False,
+u_2768,simplified_onboarding_q4_2025,control,2025-11-08,False,
+u_2779,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_2790,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_2795,simplified_onboarding_q4_2025,variant_a,2025-11-15,True,2025-11-15 00:17:00
+u_2799,simplified_onboarding_q4_2025,variant_a,2025-11-21,True,2025-11-21 01:43:00
+u_2820,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_2850,simplified_onboarding_q4_2025,variant_a,2025-11-14,False,
+u_2856,simplified_onboarding_q4_2025,control,2025-12-19,True,2025-12-19 00:46:00
+u_2859,simplified_onboarding_q4_2025,variant_a,2025-10-16,False,
+u_2867,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_2878,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 01:37:00
+u_2892,simplified_onboarding_q4_2025,variant_a,2025-11-05,False,
+u_2925,simplified_onboarding_q4_2025,control,2025-11-19,False,
+u_2945,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 00:46:00
+u_2956,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 01:59:00
+u_2969,simplified_onboarding_q4_2025,variant_a,2025-11-11,True,2025-11-11 01:30:00
+u_2974,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_2979,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_2994,simplified_onboarding_q4_2025,control,2025-10-19,False,
+u_3008,simplified_onboarding_q4_2025,variant_a,2025-10-20,True,2025-10-20 00:32:00
+u_3011,simplified_onboarding_q4_2025,variant_a,2025-10-30,False,
+u_3016,simplified_onboarding_q4_2025,variant_a,2025-11-06,True,2025-11-06 01:11:00
+u_3020,simplified_onboarding_q4_2025,variant_a,2025-11-01,True,2025-11-01 00:43:00
+u_3028,simplified_onboarding_q4_2025,control,2025-11-27,False,
+u_3031,simplified_onboarding_q4_2025,control,2025-11-08,True,2025-11-08 00:56:00
+u_3043,simplified_onboarding_q4_2025,variant_a,2025-12-02,False,
+u_3047,simplified_onboarding_q4_2025,variant_a,2025-12-18,False,
+u_3053,simplified_onboarding_q4_2025,control,2025-10-22,False,
+u_3058,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_3059,simplified_onboarding_q4_2025,variant_a,2025-11-11,True,2025-11-11 00:32:00
+u_3080,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_3107,simplified_onboarding_q4_2025,variant_a,2025-12-04,False,
+u_3109,simplified_onboarding_q4_2025,control,2025-11-23,True,2025-11-23 01:38:00
+u_3111,simplified_onboarding_q4_2025,variant_a,2025-11-01,True,2025-11-01 00:21:00
+u_3114,simplified_onboarding_q4_2025,variant_a,2025-11-05,True,2025-11-05 00:21:00
+u_3134,simplified_onboarding_q4_2025,variant_a,2025-10-16,False,
+u_3141,simplified_onboarding_q4_2025,variant_a,2025-10-17,True,2025-10-17 00:40:00
+u_3157,simplified_onboarding_q4_2025,variant_a,2025-11-09,False,
+u_3162,simplified_onboarding_q4_2025,variant_a,2025-11-27,False,
+u_3182,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_3185,simplified_onboarding_q4_2025,control,2025-11-04,False,
+u_3194,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_3218,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_3220,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_3234,simplified_onboarding_q4_2025,control,2025-11-28,False,
+u_3245,simplified_onboarding_q4_2025,variant_a,2025-12-12,False,
+u_3246,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 00:34:00
+u_3261,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_3262,simplified_onboarding_q4_2025,variant_a,2025-10-10,False,
+u_3267,simplified_onboarding_q4_2025,variant_a,2025-10-19,True,2025-10-19 00:42:00
+u_3280,simplified_onboarding_q4_2025,control,2025-10-22,True,2025-10-22 01:47:00
+u_3298,simplified_onboarding_q4_2025,control,2025-10-04,True,2025-10-04 01:50:00
+u_3309,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_3320,simplified_onboarding_q4_2025,variant_a,2025-12-02,True,2025-12-02 00:12:00
+u_3324,simplified_onboarding_q4_2025,control,2025-10-05,True,2025-10-05 01:14:00
+u_3329,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_3330,simplified_onboarding_q4_2025,variant_a,2025-12-07,False,
+u_3335,simplified_onboarding_q4_2025,control,2025-12-19,True,2025-12-19 01:12:00
+u_3340,simplified_onboarding_q4_2025,variant_a,2025-12-23,True,2025-12-23 00:35:00
+u_3375,simplified_onboarding_q4_2025,variant_a,2025-11-10,True,2025-11-10 01:27:00
+u_3381,simplified_onboarding_q4_2025,control,2025-11-13,False,
+u_3402,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_3414,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_3438,simplified_onboarding_q4_2025,control,2025-10-28,False,
+u_3452,simplified_onboarding_q4_2025,variant_a,2025-10-28,True,2025-10-28 01:47:00
+u_3458,simplified_onboarding_q4_2025,control,2025-12-20,True,2025-12-20 01:18:00
+u_3467,simplified_onboarding_q4_2025,variant_a,2025-11-13,False,
+u_3479,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_3481,simplified_onboarding_q4_2025,control,2025-12-14,True,2025-12-14 00:23:00
+u_3482,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_3485,simplified_onboarding_q4_2025,control,2025-12-29,True,2025-12-29 00:35:00
+u_3486,simplified_onboarding_q4_2025,variant_a,2025-12-19,False,
+u_3496,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_3497,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 01:29:00
+u_3514,simplified_onboarding_q4_2025,variant_a,2025-12-15,True,2025-12-15 01:40:00
+u_3527,simplified_onboarding_q4_2025,control,2025-12-06,False,
+u_3528,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_3532,simplified_onboarding_q4_2025,control,2025-11-28,False,
+u_3538,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_3558,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 01:52:00
+u_3559,simplified_onboarding_q4_2025,variant_a,2025-10-23,False,
+u_3560,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_3566,simplified_onboarding_q4_2025,control,2025-12-06,False,
+u_3570,simplified_onboarding_q4_2025,control,2025-10-15,False,
+u_3572,simplified_onboarding_q4_2025,variant_a,2025-10-03,False,
+u_3592,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 01:16:00
+u_3617,simplified_onboarding_q4_2025,variant_a,2025-12-26,False,
+u_3619,simplified_onboarding_q4_2025,variant_a,2025-10-23,False,
+u_3630,simplified_onboarding_q4_2025,variant_a,2025-12-04,False,
+u_3637,simplified_onboarding_q4_2025,control,2025-11-04,False,
+u_3642,simplified_onboarding_q4_2025,variant_a,2025-10-28,True,2025-10-28 01:22:00
+u_3648,simplified_onboarding_q4_2025,control,2025-12-10,False,
+u_3665,simplified_onboarding_q4_2025,variant_a,2025-11-12,False,
+u_3670,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_3675,simplified_onboarding_q4_2025,variant_a,2025-12-07,True,2025-12-07 01:05:00
+u_3719,simplified_onboarding_q4_2025,control,2025-12-05,True,2025-12-05 01:39:00
+u_3725,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 01:31:00
+u_3771,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 01:06:00
+u_3772,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_3777,simplified_onboarding_q4_2025,variant_a,2025-12-05,True,2025-12-05 00:36:00
+u_3781,simplified_onboarding_q4_2025,control,2025-10-28,False,
+u_3786,simplified_onboarding_q4_2025,control,2025-10-01,True,2025-10-01 01:42:00
+u_3801,simplified_onboarding_q4_2025,variant_a,2025-10-15,True,2025-10-15 01:00:00
+u_3804,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_3805,simplified_onboarding_q4_2025,control,2025-11-07,False,
+u_3811,simplified_onboarding_q4_2025,variant_a,2025-11-22,False,
+u_3819,simplified_onboarding_q4_2025,control,2025-12-14,False,
+u_3821,simplified_onboarding_q4_2025,control,2025-10-25,True,2025-10-25 00:27:00
+u_3833,simplified_onboarding_q4_2025,variant_a,2025-10-23,True,2025-10-23 01:23:00
+u_3844,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_3846,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_3847,simplified_onboarding_q4_2025,control,2025-12-03,True,2025-12-03 01:08:00
+u_3850,simplified_onboarding_q4_2025,variant_a,2025-10-04,False,
+u_3867,simplified_onboarding_q4_2025,variant_a,2025-11-12,False,
+u_3870,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 01:16:00
+u_3873,simplified_onboarding_q4_2025,control,2025-10-31,False,
+u_3885,simplified_onboarding_q4_2025,control,2025-10-01,True,2025-10-01 00:36:00
+u_3890,simplified_onboarding_q4_2025,control,2025-12-10,False,
+u_3900,simplified_onboarding_q4_2025,variant_a,2025-10-22,False,
+u_3904,simplified_onboarding_q4_2025,control,2025-12-16,True,2025-12-16 01:58:00
+u_3918,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_3921,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_3932,simplified_onboarding_q4_2025,control,2025-12-18,False,
+u_3947,simplified_onboarding_q4_2025,control,2025-10-19,False,
+u_3953,simplified_onboarding_q4_2025,variant_a,2025-12-26,True,2025-12-26 01:21:00
+u_3955,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_3960,simplified_onboarding_q4_2025,variant_a,2025-12-09,True,2025-12-09 01:03:00
+u_3961,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 01:27:00
+u_3967,simplified_onboarding_q4_2025,variant_a,2025-11-11,True,2025-11-11 00:34:00
+u_3984,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_3990,simplified_onboarding_q4_2025,control,2025-11-06,True,2025-11-06 01:36:00
+u_3991,simplified_onboarding_q4_2025,variant_a,2025-11-17,False,
+u_4004,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_4024,simplified_onboarding_q4_2025,variant_a,2025-10-08,True,2025-10-08 00:53:00
+u_4030,simplified_onboarding_q4_2025,variant_a,2025-12-09,True,2025-12-09 00:35:00
+u_4039,simplified_onboarding_q4_2025,control,2025-12-09,False,
+u_4040,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_4047,simplified_onboarding_q4_2025,variant_a,2025-10-19,False,
+u_4053,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 00:25:00
+u_4055,simplified_onboarding_q4_2025,control,2025-12-14,False,
+u_4059,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_4065,simplified_onboarding_q4_2025,variant_a,2025-12-09,True,2025-12-09 00:36:00
+u_4078,simplified_onboarding_q4_2025,variant_a,2025-10-09,False,
+u_4082,simplified_onboarding_q4_2025,control,2025-11-10,True,2025-11-10 01:40:00
+u_4099,simplified_onboarding_q4_2025,variant_a,2025-10-25,True,2025-10-25 00:21:00
+u_4100,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 01:29:00
+u_4102,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_4111,simplified_onboarding_q4_2025,control,2025-11-09,False,
+u_4117,simplified_onboarding_q4_2025,variant_a,2025-12-13,False,
+u_4130,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_4131,simplified_onboarding_q4_2025,variant_a,2025-11-11,False,
+u_4132,simplified_onboarding_q4_2025,variant_a,2025-12-24,True,2025-12-24 00:36:00
+u_4134,simplified_onboarding_q4_2025,variant_a,2025-10-21,False,
+u_4149,simplified_onboarding_q4_2025,variant_a,2025-10-01,False,
+u_4150,simplified_onboarding_q4_2025,control,2025-10-05,False,
+u_4158,simplified_onboarding_q4_2025,variant_a,2025-10-03,False,
+u_4160,simplified_onboarding_q4_2025,control,2025-11-01,False,
+u_4161,simplified_onboarding_q4_2025,control,2025-12-11,False,
+u_4163,simplified_onboarding_q4_2025,variant_a,2025-12-30,True,2025-12-30 00:55:00
+u_4177,simplified_onboarding_q4_2025,control,2025-12-29,True,2025-12-29 01:15:00
+u_4182,simplified_onboarding_q4_2025,control,2025-10-17,True,2025-10-17 00:21:00
+u_4189,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_4191,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_4199,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_4203,simplified_onboarding_q4_2025,control,2025-12-02,False,
+u_4212,simplified_onboarding_q4_2025,control,2025-12-05,True,2025-12-05 01:59:00
+u_4218,simplified_onboarding_q4_2025,control,2025-12-21,False,
+u_4228,simplified_onboarding_q4_2025,control,2025-10-27,True,2025-10-27 00:38:00
+u_4233,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_4237,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_4242,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_4254,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_4260,simplified_onboarding_q4_2025,control,2025-10-07,True,2025-10-07 01:01:00
+u_4266,simplified_onboarding_q4_2025,control,2025-10-23,True,2025-10-23 01:10:00
+u_4277,simplified_onboarding_q4_2025,control,2025-11-29,True,2025-11-29 01:59:00
+u_4286,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_4292,simplified_onboarding_q4_2025,variant_a,2025-12-20,True,2025-12-20 00:12:00
+u_4300,simplified_onboarding_q4_2025,variant_a,2025-11-01,False,
+u_4312,simplified_onboarding_q4_2025,control,2025-10-07,True,2025-10-07 01:44:00
+u_4313,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_4332,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 00:36:00
+u_4358,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_4359,simplified_onboarding_q4_2025,variant_a,2025-11-18,False,
+u_4364,simplified_onboarding_q4_2025,variant_a,2025-12-06,True,2025-12-06 01:40:00
+u_4378,simplified_onboarding_q4_2025,variant_a,2025-11-24,False,
+u_4392,simplified_onboarding_q4_2025,control,2025-11-09,True,2025-11-09 01:09:00
+u_4394,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_4407,simplified_onboarding_q4_2025,variant_a,2025-11-02,True,2025-11-02 00:41:00
+u_4442,simplified_onboarding_q4_2025,control,2025-12-10,False,
+u_4463,simplified_onboarding_q4_2025,variant_a,2025-12-08,True,2025-12-08 00:26:00
+u_4472,simplified_onboarding_q4_2025,variant_a,2025-10-30,False,
+u_4475,simplified_onboarding_q4_2025,control,2025-12-04,False,
+u_4490,simplified_onboarding_q4_2025,variant_a,2025-10-18,True,2025-10-18 00:30:00
+u_4493,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_4504,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_4507,simplified_onboarding_q4_2025,control,2025-11-16,False,
+u_4513,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_4517,simplified_onboarding_q4_2025,variant_a,2025-11-04,False,
+u_4539,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 00:29:00
+u_4551,simplified_onboarding_q4_2025,variant_a,2025-10-09,True,2025-10-09 01:40:00
+u_4572,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 00:23:00
+u_4589,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 00:28:00
+u_4598,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_4606,simplified_onboarding_q4_2025,variant_a,2025-12-15,False,
+u_4613,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_4614,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_4615,simplified_onboarding_q4_2025,control,2025-12-13,False,
+u_4630,simplified_onboarding_q4_2025,variant_a,2025-11-22,True,2025-11-22 00:24:00
+u_4634,simplified_onboarding_q4_2025,variant_a,2025-12-01,True,2025-12-01 00:27:00
+u_4636,simplified_onboarding_q4_2025,control,2025-12-23,True,2025-12-23 00:17:00
+u_4659,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_4668,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_4674,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_4702,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_4703,simplified_onboarding_q4_2025,control,2025-12-15,False,
+u_4726,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 00:55:00
+u_4727,simplified_onboarding_q4_2025,control,2025-12-15,False,
+u_4736,simplified_onboarding_q4_2025,control,2025-12-01,False,
+u_4777,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_4791,simplified_onboarding_q4_2025,control,2025-12-11,True,2025-12-11 01:57:00
+u_4796,simplified_onboarding_q4_2025,control,2025-11-03,False,
+u_4800,simplified_onboarding_q4_2025,control,2025-12-09,True,2025-12-09 01:52:00
+u_4808,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:30:00
+u_4820,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_4822,simplified_onboarding_q4_2025,control,2025-10-25,True,2025-10-25 01:46:00
+u_4831,simplified_onboarding_q4_2025,variant_a,2025-11-23,True,2025-11-23 00:40:00
+u_4838,simplified_onboarding_q4_2025,control,2025-11-06,True,2025-11-06 01:49:00
+u_4840,simplified_onboarding_q4_2025,variant_a,2025-10-05,True,2025-10-05 00:54:00
+u_4848,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 00:14:00
+u_4855,simplified_onboarding_q4_2025,variant_a,2025-11-08,True,2025-11-08 00:15:00
+u_4862,simplified_onboarding_q4_2025,variant_a,2025-12-13,True,2025-12-13 00:48:00
+u_4864,simplified_onboarding_q4_2025,variant_a,2025-12-10,True,2025-12-10 00:22:00
+u_4873,simplified_onboarding_q4_2025,control,2025-11-24,True,2025-11-24 01:40:00
+u_4877,simplified_onboarding_q4_2025,control,2025-11-07,False,
+u_4889,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_4896,simplified_onboarding_q4_2025,variant_a,2025-10-28,True,2025-10-28 00:25:00
+u_4901,simplified_onboarding_q4_2025,control,2025-10-27,False,
+u_4914,simplified_onboarding_q4_2025,variant_a,2025-11-28,False,
+u_4920,simplified_onboarding_q4_2025,control,2025-11-18,False,
+u_4933,simplified_onboarding_q4_2025,control,2025-12-12,True,2025-12-12 00:51:00
+u_4945,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_4966,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_4970,simplified_onboarding_q4_2025,control,2025-10-29,False,
+u_4993,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_4997,simplified_onboarding_q4_2025,variant_a,2025-10-07,False,
+u_5007,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_5015,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_5030,simplified_onboarding_q4_2025,control,2025-12-22,False,
+u_5031,simplified_onboarding_q4_2025,variant_a,2025-12-25,False,
+u_5033,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_5037,simplified_onboarding_q4_2025,control,2025-12-22,False,
+u_5054,simplified_onboarding_q4_2025,variant_a,2025-10-18,False,
+u_5056,simplified_onboarding_q4_2025,control,2025-12-20,True,2025-12-20 01:40:00
+u_5061,simplified_onboarding_q4_2025,control,2025-11-26,False,
+u_5072,simplified_onboarding_q4_2025,variant_a,2025-12-29,True,2025-12-29 01:08:00
+u_5076,simplified_onboarding_q4_2025,variant_a,2025-10-09,False,
+u_5080,simplified_onboarding_q4_2025,variant_a,2025-11-28,False,
+u_5091,simplified_onboarding_q4_2025,variant_a,2025-11-13,True,2025-11-13 00:35:00
+u_5102,simplified_onboarding_q4_2025,control,2025-12-20,False,
+u_5112,simplified_onboarding_q4_2025,variant_a,2025-10-08,True,2025-10-08 01:36:00
+u_5123,simplified_onboarding_q4_2025,control,2025-10-11,False,
+u_5125,simplified_onboarding_q4_2025,control,2025-11-13,False,
+u_5136,simplified_onboarding_q4_2025,control,2025-11-05,False,
+u_5145,simplified_onboarding_q4_2025,control,2025-12-10,False,
+u_5154,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_5156,simplified_onboarding_q4_2025,variant_a,2025-10-12,True,2025-10-12 01:53:00
+u_5166,simplified_onboarding_q4_2025,variant_a,2025-11-19,True,2025-11-19 00:59:00
+u_5168,simplified_onboarding_q4_2025,control,2025-10-05,False,
+u_5174,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_5181,simplified_onboarding_q4_2025,variant_a,2025-12-23,False,
+u_5187,simplified_onboarding_q4_2025,variant_a,2025-12-25,False,
+u_5188,simplified_onboarding_q4_2025,variant_a,2025-11-12,True,2025-11-12 01:21:00
+u_5196,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_5197,simplified_onboarding_q4_2025,variant_a,2025-10-18,False,
+u_5199,simplified_onboarding_q4_2025,variant_a,2025-12-03,False,
+u_5202,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_5212,simplified_onboarding_q4_2025,control,2025-10-05,False,
+u_5242,simplified_onboarding_q4_2025,control,2025-11-04,True,2025-11-04 01:31:00
+u_5248,simplified_onboarding_q4_2025,variant_a,2025-12-01,False,
+u_5263,simplified_onboarding_q4_2025,control,2025-12-21,False,
+u_5278,simplified_onboarding_q4_2025,control,2025-12-22,False,
+u_5288,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_5290,simplified_onboarding_q4_2025,variant_a,2025-12-04,True,2025-12-04 01:18:00
+u_5297,simplified_onboarding_q4_2025,variant_a,2025-10-01,False,
+u_5300,simplified_onboarding_q4_2025,control,2025-12-05,False,
+u_5311,simplified_onboarding_q4_2025,variant_a,2025-12-18,False,
+u_5312,simplified_onboarding_q4_2025,variant_a,2025-11-01,False,
+u_5324,simplified_onboarding_q4_2025,control,2025-11-11,False,
+u_5325,simplified_onboarding_q4_2025,control,2025-10-25,False,
+u_5334,simplified_onboarding_q4_2025,variant_a,2025-12-12,False,
+u_5336,simplified_onboarding_q4_2025,variant_a,2025-10-22,True,2025-10-22 00:16:00
+u_5351,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 01:47:00
+u_5358,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_5360,simplified_onboarding_q4_2025,control,2025-10-19,True,2025-10-19 00:58:00
+u_5364,simplified_onboarding_q4_2025,control,2025-10-27,True,2025-10-27 00:32:00
+u_5367,simplified_onboarding_q4_2025,variant_a,2025-11-20,True,2025-11-20 00:58:00
+u_5385,simplified_onboarding_q4_2025,variant_a,2025-12-14,False,
+u_5389,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_5401,simplified_onboarding_q4_2025,control,2025-12-05,False,
+u_5413,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 01:35:00
+u_5423,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_5426,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_5429,simplified_onboarding_q4_2025,control,2025-11-21,True,2025-11-21 01:11:00
+u_5432,simplified_onboarding_q4_2025,variant_a,2025-12-18,False,
+u_5441,simplified_onboarding_q4_2025,control,2025-11-03,False,
+u_5447,simplified_onboarding_q4_2025,variant_a,2025-12-01,True,2025-12-01 00:30:00
+u_5470,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 00:48:00
+u_5471,simplified_onboarding_q4_2025,control,2025-11-01,True,2025-11-01 00:29:00
+u_5472,simplified_onboarding_q4_2025,variant_a,2025-10-20,False,
+u_5479,simplified_onboarding_q4_2025,variant_a,2025-10-02,False,
+u_5484,simplified_onboarding_q4_2025,control,2025-10-18,True,2025-10-18 00:58:00
+u_5493,simplified_onboarding_q4_2025,control,2025-10-23,True,2025-10-23 00:11:00
+u_5500,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 00:34:00
+u_5502,simplified_onboarding_q4_2025,control,2025-12-27,False,
+u_5517,simplified_onboarding_q4_2025,control,2025-12-02,True,2025-12-02 00:17:00
+u_5531,simplified_onboarding_q4_2025,control,2025-12-12,False,
+u_5542,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_5556,simplified_onboarding_q4_2025,control,2025-10-03,True,2025-10-03 00:32:00
+u_5559,simplified_onboarding_q4_2025,control,2025-12-21,False,
+u_5560,simplified_onboarding_q4_2025,control,2025-12-16,True,2025-12-16 01:00:00
+u_5562,simplified_onboarding_q4_2025,control,2025-12-14,False,
+u_5564,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_5572,simplified_onboarding_q4_2025,variant_a,2025-12-11,False,
+u_5590,simplified_onboarding_q4_2025,variant_a,2025-10-20,True,2025-10-20 01:53:00
+u_5595,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 01:04:00
+u_5612,simplified_onboarding_q4_2025,variant_a,2025-10-09,True,2025-10-09 00:10:00
+u_5616,simplified_onboarding_q4_2025,control,2025-10-30,True,2025-10-30 00:26:00
+u_5633,simplified_onboarding_q4_2025,variant_a,2025-10-13,True,2025-10-13 00:23:00
+u_5636,simplified_onboarding_q4_2025,control,2025-10-20,True,2025-10-20 00:31:00
+u_5641,simplified_onboarding_q4_2025,variant_a,2025-10-11,False,
+u_5642,simplified_onboarding_q4_2025,variant_a,2025-10-10,False,
+u_5649,simplified_onboarding_q4_2025,control,2025-12-26,False,
+u_5652,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_5654,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_5663,simplified_onboarding_q4_2025,variant_a,2025-12-22,True,2025-12-22 01:31:00
+u_5690,simplified_onboarding_q4_2025,control,2025-11-27,False,
+u_5703,simplified_onboarding_q4_2025,control,2025-10-29,True,2025-10-29 01:58:00
+u_5709,simplified_onboarding_q4_2025,control,2025-11-03,False,
+u_5712,simplified_onboarding_q4_2025,control,2025-10-29,False,
+u_5724,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 01:11:00
+u_5728,simplified_onboarding_q4_2025,variant_a,2025-12-24,True,2025-12-24 01:32:00
+u_5729,simplified_onboarding_q4_2025,control,2025-11-23,True,2025-11-23 00:12:00
+u_5742,simplified_onboarding_q4_2025,control,2025-12-26,False,
+u_5752,simplified_onboarding_q4_2025,variant_a,2025-10-11,True,2025-10-11 01:06:00
+u_5766,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:26:00
+u_5771,simplified_onboarding_q4_2025,variant_a,2025-11-03,False,
+u_5781,simplified_onboarding_q4_2025,variant_a,2025-10-27,False,
+u_5787,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_5824,simplified_onboarding_q4_2025,control,2025-11-21,True,2025-11-21 01:32:00
+u_5834,simplified_onboarding_q4_2025,control,2025-12-30,False,
+u_5838,simplified_onboarding_q4_2025,control,2025-10-31,False,
+u_5852,simplified_onboarding_q4_2025,control,2025-12-05,True,2025-12-05 01:16:00
+u_5853,simplified_onboarding_q4_2025,variant_a,2025-12-05,False,
+u_5870,simplified_onboarding_q4_2025,control,2025-12-10,True,2025-12-10 01:08:00
+u_5871,simplified_onboarding_q4_2025,control,2025-12-25,False,
+u_5875,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_5885,simplified_onboarding_q4_2025,control,2025-11-11,False,
+u_5886,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_5902,simplified_onboarding_q4_2025,variant_a,2025-10-29,True,2025-10-29 01:33:00
+u_5908,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_5915,simplified_onboarding_q4_2025,variant_a,2025-10-26,False,
+u_5922,simplified_onboarding_q4_2025,control,2025-12-01,False,
+u_5933,simplified_onboarding_q4_2025,variant_a,2025-10-09,False,
+u_5935,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:37:00
+u_5942,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_5950,simplified_onboarding_q4_2025,variant_a,2025-11-04,False,
+u_5955,simplified_onboarding_q4_2025,control,2025-10-22,False,
+u_5956,simplified_onboarding_q4_2025,control,2025-12-27,True,2025-12-27 01:19:00
+u_5959,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_5967,simplified_onboarding_q4_2025,variant_a,2025-10-15,False,
+u_5971,simplified_onboarding_q4_2025,variant_a,2025-11-06,True,2025-11-06 01:59:00
+u_5982,simplified_onboarding_q4_2025,control,2025-10-07,True,2025-10-07 00:46:00
+u_5984,simplified_onboarding_q4_2025,control,2025-11-01,True,2025-11-01 01:42:00
+u_5999,simplified_onboarding_q4_2025,control,2025-11-07,True,2025-11-07 00:16:00
+u_6001,simplified_onboarding_q4_2025,control,2025-11-19,False,
+u_6005,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_6006,simplified_onboarding_q4_2025,control,2025-10-22,False,
+u_6017,simplified_onboarding_q4_2025,control,2025-12-04,False,
+u_6049,simplified_onboarding_q4_2025,control,2025-10-27,False,
+u_6054,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_6058,simplified_onboarding_q4_2025,control,2025-10-19,False,
+u_6059,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_6062,simplified_onboarding_q4_2025,control,2025-11-01,False,
+u_6063,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_6068,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_6084,simplified_onboarding_q4_2025,control,2025-10-17,False,
+u_6091,simplified_onboarding_q4_2025,variant_a,2025-12-12,True,2025-12-12 00:33:00
+u_6097,simplified_onboarding_q4_2025,control,2025-12-07,False,
+u_6099,simplified_onboarding_q4_2025,control,2025-10-14,False,
+u_6115,simplified_onboarding_q4_2025,variant_a,2025-10-01,False,
+u_6116,simplified_onboarding_q4_2025,variant_a,2025-12-22,False,
+u_6117,simplified_onboarding_q4_2025,variant_a,2025-11-14,False,
+u_6119,simplified_onboarding_q4_2025,variant_a,2025-12-12,True,2025-12-12 01:46:00
+u_6120,simplified_onboarding_q4_2025,control,2025-10-16,False,
+u_6121,simplified_onboarding_q4_2025,variant_a,2025-12-23,True,2025-12-23 01:11:00
+u_6123,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_6155,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_6169,simplified_onboarding_q4_2025,variant_a,2025-12-12,False,
+u_6173,simplified_onboarding_q4_2025,variant_a,2025-12-24,False,
+u_6181,simplified_onboarding_q4_2025,control,2025-12-12,False,
+u_6190,simplified_onboarding_q4_2025,variant_a,2025-10-14,True,2025-10-14 01:58:00
+u_6192,simplified_onboarding_q4_2025,variant_a,2025-11-18,True,2025-11-18 00:34:00
+u_6195,simplified_onboarding_q4_2025,control,2025-12-26,True,2025-12-26 00:28:00
+u_6207,simplified_onboarding_q4_2025,control,2025-11-10,True,2025-11-10 01:40:00
+u_6215,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_6224,simplified_onboarding_q4_2025,variant_a,2025-12-23,False,
+u_6230,simplified_onboarding_q4_2025,variant_a,2025-10-30,True,2025-10-30 01:38:00
+u_6234,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 01:01:00
+u_6249,simplified_onboarding_q4_2025,variant_a,2025-10-05,True,2025-10-05 01:26:00
+u_6262,simplified_onboarding_q4_2025,variant_a,2025-11-25,False,
+u_6274,simplified_onboarding_q4_2025,control,2025-12-24,True,2025-12-24 01:09:00
+u_6275,simplified_onboarding_q4_2025,control,2025-12-28,True,2025-12-28 01:52:00
+u_6284,simplified_onboarding_q4_2025,control,2025-12-03,True,2025-12-03 00:16:00
+u_6299,simplified_onboarding_q4_2025,variant_a,2025-11-24,True,2025-11-24 01:25:00
+u_6304,simplified_onboarding_q4_2025,variant_a,2025-10-02,False,
+u_6306,simplified_onboarding_q4_2025,variant_a,2025-10-06,False,
+u_6317,simplified_onboarding_q4_2025,variant_a,2025-10-07,False,
+u_6318,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_6319,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:29:00
+u_6323,simplified_onboarding_q4_2025,control,2025-11-16,False,
+u_6328,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_6330,simplified_onboarding_q4_2025,control,2025-10-08,True,2025-10-08 01:00:00
+u_6332,simplified_onboarding_q4_2025,variant_a,2025-10-08,True,2025-10-08 00:30:00
+u_6339,simplified_onboarding_q4_2025,variant_a,2025-10-11,False,
+u_6341,simplified_onboarding_q4_2025,variant_a,2025-10-30,False,
+u_6343,simplified_onboarding_q4_2025,control,2025-11-17,False,
+u_6345,simplified_onboarding_q4_2025,variant_a,2025-11-05,False,
+u_6355,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_6357,simplified_onboarding_q4_2025,control,2025-12-23,True,2025-12-23 01:41:00
+u_6373,simplified_onboarding_q4_2025,control,2025-10-09,True,2025-10-09 01:26:00
+u_6379,simplified_onboarding_q4_2025,variant_a,2025-10-01,False,
+u_6419,simplified_onboarding_q4_2025,variant_a,2025-12-28,True,2025-12-28 01:42:00
+u_6420,simplified_onboarding_q4_2025,control,2025-12-11,False,
+u_6437,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_6469,simplified_onboarding_q4_2025,variant_a,2025-11-25,False,
+u_6487,simplified_onboarding_q4_2025,control,2025-11-25,True,2025-11-25 00:29:00
+u_6502,simplified_onboarding_q4_2025,control,2025-12-21,True,2025-12-21 01:18:00
+u_6509,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_6515,simplified_onboarding_q4_2025,control,2025-11-08,True,2025-11-08 01:00:00
+u_6523,simplified_onboarding_q4_2025,control,2025-11-17,True,2025-11-17 01:17:00
+u_6524,simplified_onboarding_q4_2025,variant_a,2025-10-14,True,2025-10-14 01:56:00
+u_6537,simplified_onboarding_q4_2025,control,2025-12-08,True,2025-12-08 00:20:00
+u_6546,simplified_onboarding_q4_2025,control,2025-11-08,False,
+u_6569,simplified_onboarding_q4_2025,control,2025-12-06,False,
+u_6574,simplified_onboarding_q4_2025,control,2025-11-11,False,
+u_6583,simplified_onboarding_q4_2025,variant_a,2025-12-23,False,
+u_6585,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_6586,simplified_onboarding_q4_2025,variant_a,2025-11-15,True,2025-11-15 01:18:00
+u_6587,simplified_onboarding_q4_2025,variant_a,2025-10-13,False,
+u_6590,simplified_onboarding_q4_2025,variant_a,2025-10-13,True,2025-10-13 01:55:00
+u_6595,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 00:28:00
+u_6613,simplified_onboarding_q4_2025,control,2025-12-11,True,2025-12-11 00:45:00
+u_6619,simplified_onboarding_q4_2025,control,2025-11-22,False,
+u_6628,simplified_onboarding_q4_2025,control,2025-12-05,False,
+u_6632,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_6635,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_6639,simplified_onboarding_q4_2025,control,2025-11-12,True,2025-11-12 01:44:00
+u_6647,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:28:00
+u_6654,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_6677,simplified_onboarding_q4_2025,variant_a,2025-12-30,True,2025-12-30 01:39:00
+u_6681,simplified_onboarding_q4_2025,control,2025-12-06,True,2025-12-06 01:29:00
+u_6686,simplified_onboarding_q4_2025,control,2025-12-14,False,
+u_6689,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 01:20:00
+u_6713,simplified_onboarding_q4_2025,control,2025-10-03,False,
+u_6739,simplified_onboarding_q4_2025,variant_a,2025-10-19,True,2025-10-19 01:55:00
+u_6750,simplified_onboarding_q4_2025,variant_a,2025-11-27,True,2025-11-27 01:48:00
+u_6764,simplified_onboarding_q4_2025,variant_a,2025-11-18,True,2025-11-18 01:54:00
+u_6768,simplified_onboarding_q4_2025,control,2025-10-19,False,
+u_6770,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 01:07:00
+u_6777,simplified_onboarding_q4_2025,control,2025-11-27,False,
+u_6781,simplified_onboarding_q4_2025,control,2025-11-24,False,
+u_6784,simplified_onboarding_q4_2025,control,2025-11-25,False,
+u_6796,simplified_onboarding_q4_2025,variant_a,2025-10-20,True,2025-10-20 00:58:00
+u_6797,simplified_onboarding_q4_2025,variant_a,2025-12-22,True,2025-12-22 00:35:00
+u_6811,simplified_onboarding_q4_2025,variant_a,2025-12-19,False,
+u_6819,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_6821,simplified_onboarding_q4_2025,control,2025-12-05,False,
+u_6823,simplified_onboarding_q4_2025,variant_a,2025-12-28,True,2025-12-28 01:05:00
+u_6831,simplified_onboarding_q4_2025,control,2025-10-02,False,
+u_6843,simplified_onboarding_q4_2025,control,2025-12-07,False,
+u_6866,simplified_onboarding_q4_2025,control,2025-10-15,False,
+u_6868,simplified_onboarding_q4_2025,variant_a,2025-10-31,False,
+u_6876,simplified_onboarding_q4_2025,control,2025-11-01,True,2025-11-01 00:55:00
+u_6879,simplified_onboarding_q4_2025,variant_a,2025-10-30,True,2025-10-30 00:38:00
+u_6883,simplified_onboarding_q4_2025,variant_a,2025-10-10,False,
+u_6898,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 01:07:00
+u_6908,simplified_onboarding_q4_2025,control,2025-12-13,False,
+u_6913,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_6931,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_6939,simplified_onboarding_q4_2025,variant_a,2025-12-07,True,2025-12-07 01:14:00
+u_6941,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_6954,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 01:37:00
+u_6969,simplified_onboarding_q4_2025,control,2025-10-28,False,
+u_7010,simplified_onboarding_q4_2025,variant_a,2025-10-14,False,
+u_7020,simplified_onboarding_q4_2025,variant_a,2025-11-25,True,2025-11-25 01:38:00
+u_7027,simplified_onboarding_q4_2025,variant_a,2025-10-16,True,2025-10-16 01:23:00
+u_7031,simplified_onboarding_q4_2025,control,2025-11-15,True,2025-11-15 01:15:00
+u_7043,simplified_onboarding_q4_2025,variant_a,2025-12-13,False,
+u_7051,simplified_onboarding_q4_2025,control,2025-11-28,False,
+u_7056,simplified_onboarding_q4_2025,variant_a,2025-11-29,False,
+u_7081,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_7086,simplified_onboarding_q4_2025,control,2025-10-15,False,
+u_7088,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_7092,simplified_onboarding_q4_2025,control,2025-11-17,False,
+u_7093,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_7098,simplified_onboarding_q4_2025,control,2025-12-08,False,
+u_7106,simplified_onboarding_q4_2025,variant_a,2025-12-25,False,
+u_7118,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_7128,simplified_onboarding_q4_2025,control,2025-11-29,False,
+u_7129,simplified_onboarding_q4_2025,variant_a,2025-12-25,True,2025-12-25 00:44:00
+u_7137,simplified_onboarding_q4_2025,control,2025-11-09,False,
+u_7139,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_7142,simplified_onboarding_q4_2025,control,2025-12-04,True,2025-12-04 01:57:00
+u_7148,simplified_onboarding_q4_2025,variant_a,2025-10-02,True,2025-10-02 01:11:00
+u_7174,simplified_onboarding_q4_2025,variant_a,2025-12-10,True,2025-12-10 01:31:00
+u_7181,simplified_onboarding_q4_2025,variant_a,2025-10-29,True,2025-10-29 01:05:00
+u_7190,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 01:53:00
+u_7211,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_7220,simplified_onboarding_q4_2025,control,2025-10-30,True,2025-10-30 00:56:00
+u_7222,simplified_onboarding_q4_2025,control,2025-12-04,True,2025-12-04 01:38:00
+u_7224,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_7226,simplified_onboarding_q4_2025,variant_a,2025-10-04,True,2025-10-04 01:01:00
+u_7230,simplified_onboarding_q4_2025,control,2025-11-15,False,
+u_7249,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_7259,simplified_onboarding_q4_2025,variant_a,2025-10-26,True,2025-10-26 01:34:00
+u_7267,simplified_onboarding_q4_2025,control,2025-10-20,False,
+u_7277,simplified_onboarding_q4_2025,variant_a,2025-12-27,False,
+u_7279,simplified_onboarding_q4_2025,variant_a,2025-11-30,True,2025-11-30 00:17:00
+u_7285,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_7300,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_7312,simplified_onboarding_q4_2025,control,2025-10-19,False,
+u_7313,simplified_onboarding_q4_2025,control,2025-10-13,True,2025-10-13 01:30:00
+u_7319,simplified_onboarding_q4_2025,control,2025-10-13,True,2025-10-13 00:52:00
+u_7329,simplified_onboarding_q4_2025,variant_a,2025-12-28,False,
+u_7330,simplified_onboarding_q4_2025,control,2025-11-09,False,
+u_7333,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 00:52:00
+u_7346,simplified_onboarding_q4_2025,control,2025-11-28,True,2025-11-28 00:48:00
+u_7353,simplified_onboarding_q4_2025,variant_a,2025-10-18,False,
+u_7375,simplified_onboarding_q4_2025,control,2025-10-27,True,2025-10-27 00:26:00
+u_7382,simplified_onboarding_q4_2025,variant_a,2025-10-03,False,
+u_7404,simplified_onboarding_q4_2025,control,2025-11-11,False,
+u_7405,simplified_onboarding_q4_2025,variant_a,2025-12-15,True,2025-12-15 00:48:00
+u_7414,simplified_onboarding_q4_2025,variant_a,2025-11-06,True,2025-11-06 00:33:00
+u_7417,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_7421,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 01:01:00
+u_7426,simplified_onboarding_q4_2025,control,2025-11-03,True,2025-11-03 01:15:00
+u_7446,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_7453,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_7456,simplified_onboarding_q4_2025,control,2025-12-07,False,
+u_7469,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_7473,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 00:37:00
+u_7479,simplified_onboarding_q4_2025,control,2025-10-06,True,2025-10-06 00:44:00
+u_7486,simplified_onboarding_q4_2025,variant_a,2025-10-22,False,
+u_7502,simplified_onboarding_q4_2025,control,2025-12-20,False,
+u_7504,simplified_onboarding_q4_2025,variant_a,2025-10-02,False,
+u_7513,simplified_onboarding_q4_2025,variant_a,2025-12-01,False,
+u_7541,simplified_onboarding_q4_2025,control,2025-10-06,True,2025-10-06 01:48:00
+u_7568,simplified_onboarding_q4_2025,control,2025-10-10,True,2025-10-10 01:51:00
+u_7574,simplified_onboarding_q4_2025,control,2025-12-26,False,
+u_7583,simplified_onboarding_q4_2025,variant_a,2025-11-09,False,
+u_7584,simplified_onboarding_q4_2025,variant_a,2025-12-13,False,
+u_7585,simplified_onboarding_q4_2025,control,2025-12-27,False,
+u_7599,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_7637,simplified_onboarding_q4_2025,variant_a,2025-12-30,True,2025-12-30 00:33:00
+u_7643,simplified_onboarding_q4_2025,variant_a,2025-10-12,False,
+u_7656,simplified_onboarding_q4_2025,control,2025-11-03,True,2025-11-03 01:37:00
+u_7657,simplified_onboarding_q4_2025,variant_a,2025-12-26,False,
+u_7661,simplified_onboarding_q4_2025,variant_a,2025-12-14,False,
+u_7678,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_7686,simplified_onboarding_q4_2025,variant_a,2025-12-17,False,
+u_7694,simplified_onboarding_q4_2025,control,2025-10-15,True,2025-10-15 00:40:00
+u_7701,simplified_onboarding_q4_2025,variant_a,2025-12-03,False,
+u_7711,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 00:52:00
+u_7747,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_7773,simplified_onboarding_q4_2025,control,2025-11-03,False,
+u_7774,simplified_onboarding_q4_2025,variant_a,2025-11-08,True,2025-11-08 01:03:00
+u_7777,simplified_onboarding_q4_2025,variant_a,2025-11-05,False,
+u_7780,simplified_onboarding_q4_2025,variant_a,2025-12-25,True,2025-12-25 01:18:00
+u_7786,simplified_onboarding_q4_2025,control,2025-10-11,False,
+u_7790,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_7797,simplified_onboarding_q4_2025,control,2025-11-02,True,2025-11-02 00:29:00
+u_7801,simplified_onboarding_q4_2025,variant_a,2025-11-22,False,
+u_7807,simplified_onboarding_q4_2025,variant_a,2025-11-21,False,
+u_7812,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_7813,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_7816,simplified_onboarding_q4_2025,control,2025-12-22,False,
+u_7818,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 01:23:00
+u_7822,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_7830,simplified_onboarding_q4_2025,control,2025-11-18,False,
+u_7840,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_7848,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_7849,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_7858,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_7859,simplified_onboarding_q4_2025,control,2025-11-16,True,2025-11-16 01:54:00
+u_7874,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_7876,simplified_onboarding_q4_2025,control,2025-11-16,False,
+u_7879,simplified_onboarding_q4_2025,variant_a,2025-10-24,True,2025-10-24 01:26:00
+u_7901,simplified_onboarding_q4_2025,control,2025-11-17,True,2025-11-17 00:43:00
+u_7912,simplified_onboarding_q4_2025,control,2025-12-18,True,2025-12-18 01:10:00
+u_7928,simplified_onboarding_q4_2025,control,2025-10-30,False,
+u_7931,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_7936,simplified_onboarding_q4_2025,variant_a,2025-12-13,True,2025-12-13 00:29:00
+u_7951,simplified_onboarding_q4_2025,variant_a,2025-11-24,True,2025-11-24 01:37:00
+u_7953,simplified_onboarding_q4_2025,variant_a,2025-10-26,True,2025-10-26 00:32:00
+u_7974,simplified_onboarding_q4_2025,control,2025-11-14,False,
+u_7976,simplified_onboarding_q4_2025,variant_a,2025-11-25,False,
+u_7979,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 00:21:00
+u_7985,simplified_onboarding_q4_2025,variant_a,2025-12-17,False,
+u_7991,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_7993,simplified_onboarding_q4_2025,variant_a,2025-12-28,False,
+u_7997,simplified_onboarding_q4_2025,control,2025-10-10,False,
+u_8002,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_8017,simplified_onboarding_q4_2025,variant_a,2025-10-14,False,
+u_8019,simplified_onboarding_q4_2025,control,2025-12-04,False,
+u_8024,simplified_onboarding_q4_2025,control,2025-12-23,False,
+u_8032,simplified_onboarding_q4_2025,variant_a,2025-12-16,False,
+u_8033,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_8034,simplified_onboarding_q4_2025,variant_a,2025-11-04,True,2025-11-04 00:16:00
+u_8056,simplified_onboarding_q4_2025,control,2025-11-28,False,
+u_8059,simplified_onboarding_q4_2025,variant_a,2025-12-28,False,
+u_8063,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 01:56:00
+u_8085,simplified_onboarding_q4_2025,variant_a,2025-11-19,False,
+u_8095,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 01:04:00
+u_8100,simplified_onboarding_q4_2025,control,2025-11-04,False,
+u_8102,simplified_onboarding_q4_2025,variant_a,2025-11-11,False,
+u_8108,simplified_onboarding_q4_2025,control,2025-10-05,True,2025-10-05 00:58:00
+u_8130,simplified_onboarding_q4_2025,variant_a,2025-12-15,True,2025-12-15 01:36:00
+u_8132,simplified_onboarding_q4_2025,control,2025-11-08,False,
+u_8152,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 01:56:00
+u_8169,simplified_onboarding_q4_2025,control,2025-11-06,True,2025-11-06 01:01:00
+u_8181,simplified_onboarding_q4_2025,control,2025-10-22,False,
+u_8182,simplified_onboarding_q4_2025,variant_a,2025-10-01,False,
+u_8197,simplified_onboarding_q4_2025,variant_a,2025-10-19,False,
+u_8203,simplified_onboarding_q4_2025,variant_a,2025-11-02,True,2025-11-02 01:25:00
+u_8218,simplified_onboarding_q4_2025,control,2025-12-18,False,
+u_8236,simplified_onboarding_q4_2025,control,2025-12-07,True,2025-12-07 00:11:00
+u_8237,simplified_onboarding_q4_2025,variant_a,2025-12-21,False,
+u_8239,simplified_onboarding_q4_2025,variant_a,2025-11-04,False,
+u_8251,simplified_onboarding_q4_2025,variant_a,2025-12-07,True,2025-12-07 00:43:00
+u_8257,simplified_onboarding_q4_2025,variant_a,2025-11-21,False,
+u_8268,simplified_onboarding_q4_2025,variant_a,2025-11-28,False,
+u_8285,simplified_onboarding_q4_2025,variant_a,2025-12-01,False,
+u_8295,simplified_onboarding_q4_2025,control,2025-10-13,False,
+u_8300,simplified_onboarding_q4_2025,variant_a,2025-11-13,True,2025-11-13 01:38:00
+u_8302,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:16:00
+u_8305,simplified_onboarding_q4_2025,control,2025-10-12,True,2025-10-12 00:41:00
+u_8311,simplified_onboarding_q4_2025,control,2025-12-24,False,
+u_8317,simplified_onboarding_q4_2025,control,2025-10-21,False,
+u_8320,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_8381,simplified_onboarding_q4_2025,control,2025-11-10,False,
+u_8397,simplified_onboarding_q4_2025,control,2025-10-26,True,2025-10-26 00:47:00
+u_8399,simplified_onboarding_q4_2025,control,2025-11-20,False,
+u_8402,simplified_onboarding_q4_2025,variant_a,2025-11-17,False,
+u_8407,simplified_onboarding_q4_2025,variant_a,2025-12-22,True,2025-12-22 01:26:00
+u_8425,simplified_onboarding_q4_2025,variant_a,2025-11-17,True,2025-11-17 00:17:00
+u_8426,simplified_onboarding_q4_2025,variant_a,2025-12-03,True,2025-12-03 01:06:00
+u_8428,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_8435,simplified_onboarding_q4_2025,variant_a,2025-10-15,True,2025-10-15 01:43:00
+u_8437,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:58:00
+u_8439,simplified_onboarding_q4_2025,variant_a,2025-10-21,True,2025-10-21 01:52:00
+u_8467,simplified_onboarding_q4_2025,control,2025-12-02,False,
+u_8476,simplified_onboarding_q4_2025,control,2025-11-28,True,2025-11-28 01:03:00
+u_8478,simplified_onboarding_q4_2025,control,2025-10-30,False,
+u_8485,simplified_onboarding_q4_2025,control,2025-12-26,True,2025-12-26 01:58:00
+u_8487,simplified_onboarding_q4_2025,control,2025-12-01,True,2025-12-01 01:04:00
+u_8493,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 00:19:00
+u_8494,simplified_onboarding_q4_2025,variant_a,2025-11-25,False,
+u_8506,simplified_onboarding_q4_2025,variant_a,2025-12-24,False,
+u_8507,simplified_onboarding_q4_2025,variant_a,2025-10-10,True,2025-10-10 00:34:00
+u_8515,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_8516,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_8518,simplified_onboarding_q4_2025,variant_a,2025-11-17,False,
+u_8524,simplified_onboarding_q4_2025,variant_a,2025-12-22,True,2025-12-22 01:02:00
+u_8529,simplified_onboarding_q4_2025,control,2025-11-04,True,2025-11-04 00:44:00
+u_8531,simplified_onboarding_q4_2025,control,2025-12-20,True,2025-12-20 01:43:00
+u_8544,simplified_onboarding_q4_2025,variant_a,2025-10-17,False,
+u_8550,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_8560,simplified_onboarding_q4_2025,variant_a,2025-11-16,False,
+u_8565,simplified_onboarding_q4_2025,control,2025-12-05,True,2025-12-05 00:10:00
+u_8582,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 01:03:00
+u_8589,simplified_onboarding_q4_2025,variant_a,2025-11-19,True,2025-11-19 01:03:00
+u_8591,simplified_onboarding_q4_2025,variant_a,2025-11-30,True,2025-11-30 00:48:00
+u_8601,simplified_onboarding_q4_2025,variant_a,2025-12-10,True,2025-12-10 00:51:00
+u_8607,simplified_onboarding_q4_2025,variant_a,2025-12-15,True,2025-12-15 01:30:00
+u_8649,simplified_onboarding_q4_2025,control,2025-12-30,True,2025-12-30 01:34:00
+u_8655,simplified_onboarding_q4_2025,control,2025-12-03,False,
+u_8689,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_8699,simplified_onboarding_q4_2025,control,2025-11-18,True,2025-11-18 00:45:00
+u_8700,simplified_onboarding_q4_2025,variant_a,2025-10-25,True,2025-10-25 00:27:00
+u_8716,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 00:26:00
+u_8718,simplified_onboarding_q4_2025,control,2025-12-06,True,2025-12-06 00:17:00
+u_8719,simplified_onboarding_q4_2025,variant_a,2025-11-07,True,2025-11-07 01:22:00
+u_8727,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_8728,simplified_onboarding_q4_2025,variant_a,2025-12-26,True,2025-12-26 01:28:00
+u_8729,simplified_onboarding_q4_2025,variant_a,2025-12-21,True,2025-12-21 00:33:00
+u_8733,simplified_onboarding_q4_2025,control,2025-12-10,False,
+u_8739,simplified_onboarding_q4_2025,variant_a,2025-12-20,False,
+u_8744,simplified_onboarding_q4_2025,control,2025-12-13,True,2025-12-13 00:58:00
+u_8762,simplified_onboarding_q4_2025,control,2025-11-12,False,
+u_8764,simplified_onboarding_q4_2025,variant_a,2025-10-06,False,
+u_8768,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_8769,simplified_onboarding_q4_2025,control,2025-10-18,True,2025-10-18 01:17:00
+u_8776,simplified_onboarding_q4_2025,control,2025-12-15,True,2025-12-15 01:53:00
+u_8788,simplified_onboarding_q4_2025,variant_a,2025-11-28,False,
+u_8793,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_8813,simplified_onboarding_q4_2025,variant_a,2025-11-21,True,2025-11-21 01:42:00
+u_8815,simplified_onboarding_q4_2025,variant_a,2025-11-09,True,2025-11-09 01:34:00
+u_8819,simplified_onboarding_q4_2025,variant_a,2025-12-13,False,
+u_8822,simplified_onboarding_q4_2025,variant_a,2025-11-04,False,
+u_8830,simplified_onboarding_q4_2025,variant_a,2025-12-14,True,2025-12-14 01:18:00
+u_8835,simplified_onboarding_q4_2025,variant_a,2025-11-10,False,
+u_8842,simplified_onboarding_q4_2025,control,2025-11-23,False,
+u_8844,simplified_onboarding_q4_2025,variant_a,2025-12-24,False,
+u_8847,simplified_onboarding_q4_2025,variant_a,2025-12-02,False,
+u_8868,simplified_onboarding_q4_2025,variant_a,2025-11-15,True,2025-11-15 00:56:00
+u_8869,simplified_onboarding_q4_2025,control,2025-10-09,True,2025-10-09 00:47:00
+u_8873,simplified_onboarding_q4_2025,control,2025-10-15,False,
+u_8881,simplified_onboarding_q4_2025,control,2025-11-06,False,
+u_8892,simplified_onboarding_q4_2025,variant_a,2025-10-30,True,2025-10-30 01:28:00
+u_8901,simplified_onboarding_q4_2025,variant_a,2025-12-01,False,
+u_8917,simplified_onboarding_q4_2025,variant_a,2025-12-11,False,
+u_8919,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_8952,simplified_onboarding_q4_2025,control,2025-12-05,False,
+u_8969,simplified_onboarding_q4_2025,control,2025-12-16,False,
+u_8974,simplified_onboarding_q4_2025,variant_a,2025-12-12,False,
+u_8993,simplified_onboarding_q4_2025,variant_a,2025-10-11,True,2025-10-11 00:19:00
+u_8998,simplified_onboarding_q4_2025,variant_a,2025-12-09,False,
+u_9017,simplified_onboarding_q4_2025,variant_a,2025-10-24,True,2025-10-24 00:33:00
+u_9024,simplified_onboarding_q4_2025,variant_a,2025-11-29,False,
+u_9028,simplified_onboarding_q4_2025,variant_a,2025-10-30,True,2025-10-30 00:57:00
+u_9032,simplified_onboarding_q4_2025,control,2025-10-11,False,
+u_9033,simplified_onboarding_q4_2025,control,2025-10-16,False,
+u_9055,simplified_onboarding_q4_2025,control,2025-11-09,True,2025-11-09 01:26:00
+u_9063,simplified_onboarding_q4_2025,control,2025-11-21,False,
+u_9066,simplified_onboarding_q4_2025,control,2025-10-21,True,2025-10-21 00:40:00
+u_9069,simplified_onboarding_q4_2025,variant_a,2025-10-02,False,
+u_9071,simplified_onboarding_q4_2025,variant_a,2025-12-16,True,2025-12-16 01:34:00
+u_9078,simplified_onboarding_q4_2025,variant_a,2025-12-01,True,2025-12-01 00:26:00
+u_9081,simplified_onboarding_q4_2025,variant_a,2025-12-23,False,
+u_9113,simplified_onboarding_q4_2025,variant_a,2025-10-23,False,
+u_9133,simplified_onboarding_q4_2025,control,2025-12-24,False,
+u_9139,simplified_onboarding_q4_2025,control,2025-12-06,True,2025-12-06 00:36:00
+u_9151,simplified_onboarding_q4_2025,control,2025-12-24,False,
+u_9157,simplified_onboarding_q4_2025,control,2025-11-24,True,2025-11-24 01:53:00
+u_9167,simplified_onboarding_q4_2025,variant_a,2025-11-25,True,2025-11-25 00:55:00
+u_9182,simplified_onboarding_q4_2025,variant_a,2025-10-26,False,
+u_9184,simplified_onboarding_q4_2025,variant_a,2025-12-04,False,
+u_9206,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_9210,simplified_onboarding_q4_2025,variant_a,2025-10-22,False,
+u_9212,simplified_onboarding_q4_2025,variant_a,2025-12-25,False,
+u_9248,simplified_onboarding_q4_2025,variant_a,2025-12-17,False,
+u_9260,simplified_onboarding_q4_2025,variant_a,2025-11-07,False,
+u_9281,simplified_onboarding_q4_2025,variant_a,2025-11-03,True,2025-11-03 01:00:00
+u_9288,simplified_onboarding_q4_2025,variant_a,2025-12-15,False,
+u_9290,simplified_onboarding_q4_2025,variant_a,2025-10-24,False,
+u_9301,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_9312,simplified_onboarding_q4_2025,variant_a,2025-12-05,True,2025-12-05 00:36:00
+u_9313,simplified_onboarding_q4_2025,control,2025-10-29,False,
+u_9320,simplified_onboarding_q4_2025,control,2025-12-12,False,
+u_9337,simplified_onboarding_q4_2025,control,2025-12-17,True,2025-12-17 01:11:00
+u_9339,simplified_onboarding_q4_2025,variant_a,2025-12-11,True,2025-12-11 01:57:00
+u_9353,simplified_onboarding_q4_2025,control,2025-10-02,True,2025-10-02 00:38:00
+u_9359,simplified_onboarding_q4_2025,control,2025-12-07,False,
+u_9361,simplified_onboarding_q4_2025,variant_a,2025-12-28,False,
+u_9376,simplified_onboarding_q4_2025,variant_a,2025-10-22,False,
+u_9387,simplified_onboarding_q4_2025,variant_a,2025-12-04,True,2025-12-04 00:58:00
+u_9389,simplified_onboarding_q4_2025,control,2025-11-18,False,
+u_9393,simplified_onboarding_q4_2025,variant_a,2025-12-06,False,
+u_9421,simplified_onboarding_q4_2025,variant_a,2025-12-07,False,
+u_9423,simplified_onboarding_q4_2025,variant_a,2025-12-28,True,2025-12-28 00:35:00
+u_9431,simplified_onboarding_q4_2025,variant_a,2025-12-14,True,2025-12-14 01:06:00
+u_9444,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_9458,simplified_onboarding_q4_2025,control,2025-12-30,True,2025-12-30 00:32:00
+u_9467,simplified_onboarding_q4_2025,control,2025-11-17,False,
+u_9473,simplified_onboarding_q4_2025,control,2025-11-13,False,
+u_9488,simplified_onboarding_q4_2025,variant_a,2025-12-21,True,2025-12-21 00:17:00
+u_9490,simplified_onboarding_q4_2025,control,2025-10-17,False,
+u_9494,simplified_onboarding_q4_2025,variant_a,2025-10-11,True,2025-10-11 01:21:00
+u_9495,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_9498,simplified_onboarding_q4_2025,variant_a,2025-11-12,False,
+u_9504,simplified_onboarding_q4_2025,variant_a,2025-11-14,True,2025-11-14 00:26:00
+u_9513,simplified_onboarding_q4_2025,control,2025-12-02,True,2025-12-02 00:20:00
+u_9529,simplified_onboarding_q4_2025,variant_a,2025-10-24,False,
+u_9538,simplified_onboarding_q4_2025,variant_a,2025-11-28,True,2025-11-28 00:26:00
+u_9545,simplified_onboarding_q4_2025,control,2025-12-29,False,
+u_9548,simplified_onboarding_q4_2025,variant_a,2025-10-24,True,2025-10-24 00:44:00
+u_9551,simplified_onboarding_q4_2025,variant_a,2025-11-19,False,
+u_9553,simplified_onboarding_q4_2025,control,2025-11-27,True,2025-11-27 01:14:00
+u_9560,simplified_onboarding_q4_2025,variant_a,2025-10-29,False,
+u_9564,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_9588,simplified_onboarding_q4_2025,control,2025-12-21,True,2025-12-21 00:54:00
+u_9600,simplified_onboarding_q4_2025,variant_a,2025-11-01,True,2025-11-01 01:19:00
+u_9604,simplified_onboarding_q4_2025,variant_a,2025-12-12,True,2025-12-12 01:01:00
+u_9614,simplified_onboarding_q4_2025,variant_a,2025-12-04,True,2025-12-04 01:24:00
+u_9616,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_9630,simplified_onboarding_q4_2025,variant_a,2025-11-08,False,
+u_9636,simplified_onboarding_q4_2025,control,2025-10-26,False,
+u_9640,simplified_onboarding_q4_2025,control,2025-12-28,False,
+u_9653,simplified_onboarding_q4_2025,variant_a,2025-12-01,False,
+u_9662,simplified_onboarding_q4_2025,control,2025-11-17,True,2025-11-17 00:16:00
+u_9680,simplified_onboarding_q4_2025,variant_a,2025-12-24,True,2025-12-24 00:58:00
+u_9682,simplified_onboarding_q4_2025,variant_a,2025-12-24,False,
+u_9684,simplified_onboarding_q4_2025,control,2025-12-12,True,2025-12-12 01:34:00
+u_9699,simplified_onboarding_q4_2025,control,2025-10-12,False,
+u_9701,simplified_onboarding_q4_2025,control,2025-10-01,True,2025-10-01 01:41:00
+u_9704,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_9716,simplified_onboarding_q4_2025,variant_a,2025-10-31,True,2025-10-31 00:44:00
+u_9717,simplified_onboarding_q4_2025,control,2025-10-18,True,2025-10-18 01:46:00
+u_9722,simplified_onboarding_q4_2025,control,2025-10-28,True,2025-10-28 00:25:00
+u_9726,simplified_onboarding_q4_2025,variant_a,2025-12-08,False,
+u_9736,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_9744,simplified_onboarding_q4_2025,control,2025-10-23,False,
+u_9748,simplified_onboarding_q4_2025,control,2025-12-27,False,
+u_9750,simplified_onboarding_q4_2025,variant_a,2025-12-14,False,
+u_9761,simplified_onboarding_q4_2025,control,2025-10-17,True,2025-10-17 01:21:00
+u_9765,simplified_onboarding_q4_2025,variant_a,2025-10-01,True,2025-10-01 00:59:00
+u_9770,simplified_onboarding_q4_2025,control,2025-10-18,False,
+u_9775,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_9776,simplified_onboarding_q4_2025,control,2025-10-08,False,
+u_9792,simplified_onboarding_q4_2025,variant_a,2025-10-03,True,2025-10-03 00:46:00
+u_9796,simplified_onboarding_q4_2025,variant_a,2025-11-23,False,
+u_9801,simplified_onboarding_q4_2025,variant_a,2025-10-06,True,2025-10-06 01:22:00
+u_9804,simplified_onboarding_q4_2025,control,2025-10-31,True,2025-10-31 00:27:00
+u_9812,simplified_onboarding_q4_2025,control,2025-10-06,False,
+u_9815,simplified_onboarding_q4_2025,variant_a,2025-11-08,True,2025-11-08 01:51:00
+u_9817,simplified_onboarding_q4_2025,variant_a,2025-11-14,False,
+u_9836,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_9838,simplified_onboarding_q4_2025,variant_a,2025-11-05,False,
+u_9851,simplified_onboarding_q4_2025,variant_a,2025-12-01,True,2025-12-01 00:19:00
+u_9856,simplified_onboarding_q4_2025,variant_a,2025-12-10,False,
+u_9869,simplified_onboarding_q4_2025,control,2025-11-05,False,
+u_9900,simplified_onboarding_q4_2025,control,2025-11-10,True,2025-11-10 01:36:00
+u_9901,simplified_onboarding_q4_2025,control,2025-10-07,False,
+u_9916,simplified_onboarding_q4_2025,control,2025-12-18,True,2025-12-18 01:57:00
+u_9922,simplified_onboarding_q4_2025,control,2025-11-30,False,
+u_9927,simplified_onboarding_q4_2025,control,2025-12-17,False,
+u_9951,simplified_onboarding_q4_2025,variant_a,2025-10-11,False,
+u_9956,simplified_onboarding_q4_2025,control,2025-10-04,False,
+u_9958,simplified_onboarding_q4_2025,control,2025-10-24,False,
+u_9962,simplified_onboarding_q4_2025,control,2025-10-17,True,2025-10-17 01:56:00
+u_9972,simplified_onboarding_q4_2025,variant_a,2025-10-16,True,2025-10-16 00:48:00
+u_9980,simplified_onboarding_q4_2025,variant_a,2025-10-23,False,
